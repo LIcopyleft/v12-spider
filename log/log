@@ -1,0 +1,1954 @@
+2014-08-22 10:31:20 INFO   [info] HtmlPage(http://login.weibo.cn/login/)@25447638
+2014-08-22 10:31:44 INFO   [info] 微博
+登录|注册
+
+欢迎访问微博 什么是微博？
+手机号/电子邮箱/会员帐号:
+
+密码:(使用明文密码)
+
+checked记住登录状态，需支持并打开手机的cookie功能。
+登录 忘记密码
+使用合作网站帐号登录:
+UC浏览器
+小提示：
+1、登录成功后保存任意页面为书签，下次通过书签访问，也可免去登录过程。
+2、请不要直接通过手机浏览器的发送地址功能将登录后的页面地址发送给朋友，以免泄露个人信息及密码。
+2014-08-22 10:32:43 INFO   [info] 烟雨林-关注程序员的IT科技博客
+烟雨首页
+编程语言
+程序员的面经
+程序员找工作
+架构设计
+精品书籍
+玩转技术
+烟雨杂谈
+源码剖析
+Expressjs中文入门指引手册
+2014-08-01 前端技术   
+传入（或生成）的本地变量优先，但传入父视图的本地变量在子视图仍有效。因此如果我们用partial(‘blog/post’, post)来渲染博客日志时，将生成post的本地变量，但调用本函数的视图拥有本地用户，它在blog/post视图依然有效，但是不论对开发或者生产环境我们都使用了...
+read more
+避免常见的六种HTML5错误用法
+2014-08-01 前端技术   
+section元素表示的是内容中用来帮助构建文档概要的语义部分。它应该包含一个头部,如果你想找一个用作页面容器的元素(就像HTML或者XHTML的风格)，那么考虑如Kroc Camen所说,既然article元素已经保证了头部会出现在文档概要中，而header又不能包含多个元素（如上文所定义的）...
+read more
+现在就使用HTML5的十大原因
+2014-08-01 前端技术   
+目前有很多的文章介绍使用HTML5并且介绍了使用它的优势和好处，没错，我们这篇文章也类似,随着更多这样的文章，以及Apple的支持，Adobe围绕HTML5的产品开发，以及移动flash的死亡,如此多网站的支持，我想对那些仍旧没有或者不想接受它的人说一些话,我认为主要得原因是，它看起来像一个神秘的东西...
+read more
+Node.js入门教程
+2014-08-01 前端技术   
+本书致力于教会你如何用Node.js来开发应用，过程中会传授你所有所需的“高级”JavaScript知识。本书绝不是一本“Hello World”的教程，你正在阅读的已经是本书的最终版。因此，只有当进行错误更正以及针对新版本Node.js的改动进行对应的修正时，才会进行更新，这里指的适合对其他编程语言有一定...
+read more
+为什么我们要从NodeJS迁移到Ruby on Rails
+2014-08-01 前端技术   
+我说这些并没有任何对那些代码捐赠者冒犯的意思，他们很优秀，开发出来很多优秀的程序库，然而，大部分程序库需要改进，而NodeJS的这种快速成长的环境意味着每一版升级中都带有大量的变化，当你使用一种前沿技术时，你十分有必要尽快的紧跟最新的版本，这给创业型的企业带来了很多的麻烦...
+read more
+什么是Node.js
+2014-08-01 前端技术   
+本文不涉及如何编写一个复杂的Node.js应用程序，也不是一份全面的Node.js教程，阅读本文应该有助于您决定是否应该继续学习 Node，以便将其用于您的业务，本文将简要介绍一些背景信息：它要解决的问题，它如何工作，如何运行一个简单应用程序，最后，Node.js 在什么情况下是一个好的解决方案...
+read more
+少即是极多 - Go 语言设计理念
+2014-07-31 GO语言   
+几星期前我被问起:“你在推出Go的过程中遇到的最大的惊奇是什么？”,我今天想说的是关于那些激发我们创造Go的事情，和为什么它本不应令我们如此惊讶,将为你们的号码多加上一位，以便更好地体现你们的工作,我立即意识到了答案：虽然我们希望C++程序员意识到Go是个较好的选择,我保证这些内...
+read more
+go是函数式编程语言吗
+2014-07-31 GO语言   
+让我们先考虑一个现实问题: 假如你拥有一份吃过寿司的人的清单, 你是否能够根据人名确定他是否在清单上? 这是个很简单的问题, 你只需遍历清单.嗯, 如果你go的功底很弱, 不知道怎么遍历清单那怎么办? 没关系, 我会给你提供一个刷选器,Screen方法会将刷选的函数返回给调用方, 这样你就可以不用:
+read more
+java编程的78条黄金法则
+2014-07-31 Java分析   
+遇到多个构造器参数时要考虑用构造器,使类和成员的可访问性最小化,接口优于抽象类,不要在新代码中采用原生态类型,采用有限制通配符来提升API的灵活性,优先考虑类型安全的异构造器,通过私有构造器强化不可实例化的能力,消除过期的对象引用,要么为继承为设计，并提供文档说明，要么就禁止继承...
+read more
+离开Java，寻找更佳语言的10大理由
+2014-07-31 Java分析   
+别误解，其实在我的职业生涯中，我已经编写了无数的Java代码；而且，我仍然认为Java一门伟大的（程序）语言,相对于C++和Smalltack，Java已经有了很大的改进；但现在，即使是Java，也已经开始感觉到了其15年的积重,相对于C++和Smalltack，Java已经有了很大的改进；但现在，即使是Java...
+read more
+Java编程中“为了性能”尽量要做到的一些地方
+2014-07-31 Java分析   
+最近的机器内存又爆满了，除了新增机器内存外，还应该好好review一下我们的代码，有很多代码编写过于随意化，这些不好的习惯或对程序语言的不了解是应该好好打压打压了,使用单例可以减轻加载的负担，缩短加载的时间，提高加载的效率，但并不是所有地方都适用于单例，简单来说，单例主要适用于以下三个方面...
+read more
+1 2 3 4 5 6 7 8 9 10 11 首页 尾页
+站内搜索
+本站直达
+编程语言	程序员找工作	精品书籍	视频教程	玩转技术
+投资理财	程序员的面经	烟雨杂谈	架构设计	源码剖析
+				
+邮箱订阅
+随便看看
+Maven安装指南|Maven安装教程
+人人网校招2014年研发面经
+创新工场校园招聘笔试题2013年软件研发
+mdrill sql使用简介
+剑指Offer书籍PDF下载及简介
+VC视频教程(主要讲述`MFC`)
+免费获取ripple币的方法汇总
+界面编程模仿篇(QQ登录界面逼真篇)
+14个值得推荐的个人提升方法
+BeanFactory类实现源码分析
+年度排行
+pelican博客搭建设置分页和分页保存位置
+美团网校园招聘2014年面经(软件研发)
+腾讯校园招聘笔试题目2014年软件研发类武汉
+Maven简介
+编程珠玑(作者:John Bently)
+VC视频教程(主要讲述`MFC`)
+JED币免费获取30 ripple币
+界面编程模仿篇(QQ登录界面逼真篇)
+如何成为一个黑客
+Redis中adlist.c源码解读
+Atlas 我的微博 IT公司笔试题 申请友链
+【本站地图】 【RSS订阅】 【谷歌地图】 【电脑版】
+博主邮箱: zwjlpeng@gmail.com Copyright@2010-2020 烟雨林个人博客
+2014-08-22 13:15:02 INFO   [info] 微博
+登录|注册
+
+欢迎访问微博 什么是微博？
+手机号/电子邮箱/会员帐号:
+
+密码:(使用明文密码)
+
+checked记住登录状态，需支持并打开手机的cookie功能。
+登录 忘记密码
+使用合作网站帐号登录:
+UC浏览器
+小提示：
+1、登录成功后保存任意页面为书签，下次通过书签访问，也可免去登录过程。
+2、请不要直接通过手机浏览器的发送地址功能将登录后的页面地址发送给朋友，以免泄露个人信息及密码。
+2014-08-22 13:15:02 INFO   [info] <?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+    <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0, maximum-scale=2.0"/>
+    <meta name="MobileOptimized" content="240"/>
+    <title>
+      微博
+    </title>
+    <style type="text/css" id="internalStyle">
+      html,body,p,form,div,table,textarea,input,span,select{font-size:12px;word-wrap:break-word;}body{background:#F8F9F9;color:#000;padding:1px;margin:1px;}table,tr,td{border-width:0px;margin:0px;padding:0px;}form{margin:0px;padding:0px;border:0px;}textarea{border:1px solid #96c1e6}textarea{width:95%;}a,.tl{color:#2a5492;text-decoration:underline;}/*a:link {color:#023298}*/.k{color:#2a5492;text-decoration:underline;}.kt{color:#F00;}.ib{border:1px solid #C1C1C1;}.pm,.pmy{clear:both;background:#ffffff;color:#676566;border:1px solid #b1cee7;padding:3px;margin:2px 1px;overflow:hidden;}.pms{clear:both;background:#c8d9f3;color:#666666;padding:3px;margin:0 1px;overflow:hidden;}.pmst{margin-top: 5px;}.pmsl{clear:both;padding:3px;margin:0 1px;overflow:hidden;}.pmy{background:#DADADA;border:1px solid #F8F8F8;}.t{padding:0px;margin:0px;height:35px;}.b{background:#e3efff;text-align:center;color:#2a5492;clear:both;padding:4px;}.bl{color:#2a5492;}.n{clear:both;background:#436193;color:#FFF;padding:4px; margin: 1px;}.nt{color:#b9e7ff;}.nl{color:#FFF;text-decoration:none;}.nfw{clear:both;border:1px solid #BACDEB;padding:3px;margin:2px 1px;}.s{border-bottom:1px dotted #666666;margin:3px;clear:both;}.tip{clear:both; background:#c8d9f3;color:#676566;border:1px solid #BACDEB;padding:3px;margin:2px 1px;}.tip2{color:#000000;padding:2px 3px;clear:both;}.ps{clear:both;background:#FFF;color:#676566;border:1px solid #BACDEB;padding:3px;margin:2px 1px;}.tm{background:#feffe5;border:1px solid #e6de8d;padding:4px;}.tm a{color:#ba8300;}.tmn{color:#f00}.tk{color:#ffffff}.tc{color:#63676A;}.c{padding:2px 5px;}.c div a img{border:1px solid #C1C1C1;}.ct{color:#9d9d9d;font-style:italic;}.cmt{color:#9d9d9d;}.ctt{color:#000;}.cc{color:#2a5492;}.nk{color:#2a5492;}.por {border: 1px solid #CCCCCC;height:50px;width:50px;}.me{color:#000000;background:#FEDFDF;padding:2px 5px;}.pa{padding:2px 4px;}.nm{margin:10px 5px;padding:2px;}.hm{padding:5px;background:#FFF;color:#63676A;}.u{margin:2px 1px;background:#ffffff;border:1px solid #b1cee7;}.ut{padding:2px 3px;}.cd{text-align:center;}.r{color:#F00;}.g{color:#0F0;}.bn{background: transparent;border: 0 none;text-align: left;padding-left: 0;}
+    </style>
+    <script>
+//<![CDATA[
+if(top != self){top.location = self.location;}
+//]]>
+    </script>
+  </head>
+  <body>
+    <div class="c">
+      登录|
+      <a href="http://weibo.cn/reg/index?backURL=http%3A%2F%2Fweibo.cn&amp;backTitle=%E6%89%8B%E6%9C%BA%E6%96%B0%E6%B5%AA%E7%BD%91&amp;vt=4">
+        注册
+      </a>
+      <br/>
+    </div>
+    <div class="c">
+      欢迎访问微博 
+      <a href="http://weibo.cn/reg/faq?c=ttt&amp;backURL=http%3A%2F%2Fweibo.cn&amp;backTitle=%E6%89%8B%E6%9C%BA%E6%96%B0%E6%B5%AA%E7%BD%91&amp;vt=4">
+        什么是微博？
+      </a>
+      <br/>
+      <form action="?rand=1231238337&amp;backURL=http%3A%2F%2Fweibo.cn&amp;backTitle=%E6%89%8B%E6%9C%BA%E6%96%B0%E6%B5%AA%E7%BD%91&amp;vt=4" method="post">
+        <div>
+          手机号/电子邮箱/会员帐号:
+          <br/>
+          <input type="text" name="mobile" size="30" value=""/>
+          <br/>
+          密码:(
+          <a href="/login/?backURL=http%3A%2F%2Fweibo.cn&amp;backTitle=%E6%89%8B%E6%9C%BA%E6%96%B0%E6%B5%AA%E7%BD%91&amp;vt=4&amp;pt=1">
+            使用明文密码
+          </a>
+          )
+          <br/>
+          <input type="password" name="password_7298" size="30"/>
+          <br/>
+          <input type="checkbox" name="remember" checked="checked" value="on"/>
+          记住登录状态，需支持并打开手机的cookie功能。
+          <br/>
+          <input type="hidden" name="backURL" value="http%3A%2F%2Fweibo.cn"/>
+          <input type="hidden" name="backTitle" value="手机新浪网"/>
+          <input type="hidden" name="tryCount" value=""/>
+          <input type="hidden" name="vk" value="7298_4818_2138491778"/>
+          <input type="submit" name="submit" value="登录"/>
+           
+          <a href="http://weibo.cn/reg/forgetpwd?backURL=http%3A%2F%2Fweibo.cn&amp;backTitle=%E6%89%8B%E6%9C%BA%E6%96%B0%E6%B5%AA%E7%BD%91&amp;vt=4">
+            忘记密码
+          </a>
+          <br/>
+          <div>
+            使用合作网站帐号登录:
+            <br/>
+            <table>
+              <tbody align="left">
+                <tr>
+                  <td>
+                    <a href="http://weibo.cn/sinaurl?goto=http%3A%2F%2Fapi.open.uc.cn%2Fauthorize%3Fclient_id%3D20032%26redirect_uri%3Dhttp%253A%252F%252Flogin.weibo.cn%252Flogin%252Fuc_callback%253FbackURL%253Dhttp%25253A%25252F%25252Fweibo.cn%2526amp%253BbackTitle%253D%2525E6%252589%25258B%2525E6%25259C%2525BA%2525E6%252596%2525B0%2525E6%2525B5%2525AA%2525E7%2525BD%252591%2526amp%253Bvt%253D4%26response_type%3Dcode&amp;signUrl=5668b353fd">
+                      <b>
+                        UC浏览器
+                      </b>
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          小提示：
+          <br/>
+          1、登录成功后保存任意页面为书签，下次通过书签访问，也可免去登录过程。
+          <br/>
+          <span style="color:red">
+            2、请不要直接通过手机浏览器的发送地址功能将登录后的页面地址发送给朋友，以免泄露个人信息及密码。
+          </span>
+          <br/>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
+
+2014-08-22 13:28:33 WARN   [processCookies] Cookie rejected [U_TRS1="00000033.21e1299.53f6d4eb.b277ce5d", version:0, domain:.sina.com.cn, path:/, expiry:Mon Aug 19 13:28:11 CST 2024] Illegal domain attribute "sina.com.cn". Domain of origin: "passport.weibo.com"
+2014-08-22 13:28:33 WARN   [processCookies] Cookie rejected [U_TRS2="00000033.21ef299.53f6d4eb.e1d21574", version:0, domain:.sina.com.cn, path:/, expiry:null] Illegal domain attribute "sina.com.cn". Domain of origin: "passport.weibo.com"
+2014-08-22 13:28:34 INFO   [info] 我的首页
+广场.游戏.找人.更多
+首页|消息|话题|搜索|刷新
+v11yu[隐身] 5级 资料95% 设置
+微博[49] 关注[49] 粉丝[275] @我的
+#中秋放假去哪#
+发布好友圈高级
+全部-好友圈-分组-收藏-筛选
+	剑钧CAI 关注他 关闭
+你的好友Nirgend-wo、丢掉的老时光共2人与他互相关注
+正在按时间顺序查看微博智能排序
+杭电ACM 转发了 杭电ACM 的微博:[话筒][2014多校联合训练]历时1个月的2014年多校联合训练赛全部结束了，所谓自古英雄出少年——最终，宁波市镇海中学team481强势称雄！另外，比赛前25名名单如下图，他们将分享万元奖金（请负责老师尽快将转账账号发送邮件到HDUACM [at] QQ.com）。再次感谢大家支持，来年多校见！http://t.cn/RPuHziq
+ 原图 赞[2] 原文转发[8] 原文评论[8]
+转发理由:回复@康Connoronnoc:必须的，现在是中国ACM八大高校之一！ //@康Connoronnoc:华南理工好强。。  赞[0] 转发[0] 评论[0] 收藏 8分钟前 来自微博 weibo.com
+我的前任是极品 转发了 白雪公主与七个郭茎明 的微博:看醉了哈哈哈哈哈哈哈哈哈
+ 原图 赞[103] 原文转发[636] 原文评论[131]
+转发理由:谜の嗅觉//@孤祣: 卧槽哈哈哈 //@你先别死等我来救你:。。。//@吹蛋: 噗。。。//@九胥:。。。  赞[483] 转发[303] 评论[344] 收藏 56分钟前 来自微博 weibo.com
+OONE智能手机:【OONE手机背后，你们不知道的事】为什么OONE隔空喊话罗老师？你以为的OONE手机和现实中的OONE手机有何认知上的差异？今天我们不谈情怀，谈点产品。http://t.cn/8kPahqE
+ 原图 赞[61] 转发[76] 评论[256] 收藏 推广 来自微博 weibo.com
+360安全卫士:【“120名艺人涉毒名单.exe”是木马病毒，切勿点击】近期一个“120名艺人涉毒名单.exe”的木马文件通过网盘、群共享等方式传播，利用人们的好奇心吸引点击。该木马会设置自身开机启动，再根据木马控制端的指令记录键盘，盗取文档、图片等格式文件，请网友们注意防范，在安全软件报警时切勿冒险点击。
+ 原图 赞[97] 转发[165] 评论[43] 收藏 今天 12:25 来自360安全浏览器
+我的前任是极品:发现一组超萌的Grace姐姐头像！转需！！绘制：沈珂伊 [组图共9张]
+ 原图 赞[1437] 转发[2469] 评论[1333] 收藏 今天 12:24 来自微博 weibo.com
+我的前任是极品:被劈腿过的妹子们，你们是怎么发现男朋友出轨的？ 赞[381] 转发[163] 评论[1940] 收藏 今天 12:20 来自微博 weibo.com
+尼康中国:#感受尼康#今天为大家带来的是D3100的视听使用手册，汇集了有关D3100使用的基础、关键技术和摄影技巧等众多信息，通过动画、视频、解说等生动的方式让您体验使用尼康数码相机的更多乐趣。点击链接，开始学习吧！http://t.cn/RPu8x57
+ 原图 赞[14] 转发[31] 评论[15] 收藏 今天 12:20 来自微博 weibo.com
+小米公司 转发了 小米手机 的微博:【3款新机型报到！8月26日首发】新学期，新手机！小米网下周二12点发售：红米Note 联通4G版999元，5.5英寸全贴合大屏；小米4 电信16GB版1999元，支持移动2G/联通3G/电信3G；小米4 联通64GB版2499元，超乎想象的工艺和手感！预约分享小米网微博，有机会赢取免单资格。火速转发预约：http://t.cn/RPa9FFu
+ 原图 赞[336] 原文转发[594] 原文评论[418]
+转发理由:新手机开卖啦：电信16GB、联通64GB#小米4#，联通4G红米Note！快到小米网预约，分享微博赢免单：http://t.cn/8sTfIBm  赞[88] 转发[96] 评论[55] 收藏 今天 12:15 来自专业版微博
+微博游戏中心:男朋友玩英雄联盟不理你你就知足吧,我对象因为玩《我爱消方块》不理我。[汗]（转）[应用]我爱消方块 赞[289] 转发[39] 评论[35] 收藏 今天 12:05 来自微博 weibo.com
+杭电ACM:[话筒][2014多校联合训练]历时1个月的2014年多校联合训练赛全部结束了，所谓自古英雄出少年——最终，宁波市镇海中学team481强势称雄！另外，比赛前25名名单如下图，他们将分享万元奖金（请负责老师尽快将转账账号发送邮件到HDUACM [at] QQ.com）。再次感谢大家支持，来年多校见！http://t.cn/RPuHziq
+ 原图 赞[2] 转发[8] 评论[8] 收藏 今天 11:53 来自微博 weibo.com
+我的前任是极品:前任给我发来的消息…要和好…找了一家龙猫求情……是不是该答应？ [组图共6张]
+ 原图 赞[652] 转发[254] 评论[438] 收藏 今天 11:50 来自微博 weibo.com
+下页 跳页 1/50页
+搜微博找人
+柯震东房祖名吸毒 酷狗拉票 邂逅有机一起去草原
+首页.反馈.帮助.客户端.举报.退出
+设置:皮肤.图片.条数.隐私
+简版|彩版|触屏|语音
+weibo.cn[08-22 13:28]
+2014-08-22 13:28:34 INFO   [info] <?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+    <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0, maximum-scale=2.0"/>
+    <meta name="MobileOptimized" content="240"/>
+    <title>
+      我的首页
+    </title>
+    <style type="text/css" id="internalStyle">
+      html,body,p,form,div,table,textarea,input,span,select{font-size:12px;word-wrap:break-word;}body{background:#F8F9F9;color:#000;padding:1px;margin:1px;}table,tr,td{border-width:0px;margin:0px;padding:0px;}form{margin:0px;padding:0px;border:0px;}textarea{border:1px solid #96c1e6}textarea{width:95%;}a,.tl{color:#2a5492;text-decoration:underline;}/*a:link {color:#023298}*/.k{color:#2a5492;text-decoration:underline;}.kt{color:#F00;}.ib{border:1px solid #C1C1C1;}.pm,.pmy{clear:both;background:#ffffff;color:#676566;border:1px solid #b1cee7;padding:3px;margin:2px 1px;overflow:hidden;}.pms{clear:both;background:#c8d9f3;color:#666666;padding:3px;margin:0 1px;overflow:hidden;}.pmst{margin-top: 5px;}.pmsl{clear:both;padding:3px;margin:0 1px;overflow:hidden;}.pmy{background:#DADADA;border:1px solid #F8F8F8;}.t{padding:0px;margin:0px;height:35px;}.b{background:#e3efff;text-align:center;color:#2a5492;clear:both;padding:4px;}.bl{color:#2a5492;}.n{clear:both;background:#436193;color:#FFF;padding:4px; margin: 1px;}.nt{color:#b9e7ff;}.nl{color:#FFF;text-decoration:none;}.nfw{clear:both;border:1px solid #BACDEB;padding:3px;margin:2px 1px;}.s{border-bottom:1px dotted #666666;margin:3px;clear:both;}.tip{clear:both; background:#c8d9f3;color:#676566;border:1px solid #BACDEB;padding:3px;margin:2px 1px;}.tip2{color:#000000;padding:2px 3px;clear:both;}.ps{clear:both;background:#FFF;color:#676566;border:1px solid #BACDEB;padding:3px;margin:2px 1px;}.tm{background:#feffe5;border:1px solid #e6de8d;padding:4px;}.tm a{color:#ba8300;}.tmn{color:#f00}.tk{color:#ffffff}.tc{color:#63676A;}.c{padding:2px 5px;}.c div a img{border:1px solid #C1C1C1;}.ct{color:#9d9d9d;font-style:italic;}.cmt{color:#9d9d9d;}.ctt{color:#000;}.cc{color:#2a5492;}.nk{color:#2a5492;}.por {border: 1px solid #CCCCCC;height:50px;width:50px;}.me{color:#000000;background:#FEDFDF;padding:2px 5px;}.pa{padding:2px 4px;}.nm{margin:10px 5px;padding:2px;}.hm{padding:5px;background:#FFF;color:#63676A;}.u{margin:2px 1px;background:#ffffff;border:1px solid #b1cee7;}.ut{padding:2px 3px;}.cd{text-align:center;}.r{color:#F00;}.g{color:#0F0;}.bn{background: transparent;border: 0 none;text-align: left;padding-left: 0;}
+    </style>
+    <script>
+//<![CDATA[
+if(top != self){top.location = self.location;}
+//]]>
+    </script>
+  </head>
+  <body>
+    <div class="c">
+      <a href="/pub/?tf=5_005" id="top" class="tl">
+        广场
+      </a>
+      .
+      <a href="http://game.weibo.cn/?fcode=100110001003">
+        游戏
+      </a>
+      .
+      <a href="/find/?tf=5_007">
+        找人
+      </a>
+      .
+      <a href="/page/523?tf=5_008" class="tl">
+        更多
+      </a>
+    </div>
+    <div class="n" style="padding: 6px 4px;">
+      <a href="http://weibo.cn/?tf=5_009" class="nl">
+        首页
+      </a>
+      |
+      <a href="http://weibo.cn/msg/?tf=5_010" class="nl">
+        消息
+      </a>
+      |
+      <a href="http://huati.weibo.cn" class="nl">
+        话题
+      </a>
+      |
+      <a href="http://weibo.cn/search/?tf=5_012" class="nl">
+        搜索
+      </a>
+      |
+      <a href="/?rand=9170&amp;p=r" class="nl">
+        刷新
+      </a>
+    </div>
+    <div class="u">
+      <div class="ut">
+        v11yu[
+        <a href="/im/setprivacy?f=h">
+          隐身
+        </a>
+        ]
+        <a href="http://vip2.weibo.cn/member/pay?F=W_tq_zsbs_01">
+          <img alt="M" src="http://u1.sinaimg.cn/upload/h5/img/members/hy_gray_s2.png"/>
+        </a>
+         
+        <a href="/1744649233/urank">
+          5级
+        </a>
+         
+        <a href="/1744649233/info">
+          资料95%
+        </a>
+         
+        <a href="/account/customize/?from=home&amp;st=2107">
+          设置
+        </a>
+      </div>
+      <div class="tip2">
+        <a href="/1744649233/profile">
+          微博[49]
+        </a>
+         
+        <a href="/1744649233/follow">
+          关注[49]
+        </a>
+         
+        <a href="/1744649233/fans">
+          粉丝[275]
+        </a>
+         
+        <a href="/at/weibo?uid=1744649233">
+          @我的
+        </a>
+      </div>
+    </div>
+    <div class="pms">
+      <form action="/mblog/sendmblog?st=2107" accept-charset="UTF-8" method="post">
+        <div>
+          <input type="hidden" name="rl" value="0"/>
+          <textarea name="content" rows="2" cols="20">#中秋放假去哪#</textarea>          <br/>
+          <input type="submit" value="发布"/>
+          <input type="submit" name="friends" value="好友圈"/>
+          <input type="submit" name="composer" value="高级"/>
+        </div>
+      </form>
+    </div>
+    <div class="pms" style="margin-top: 2px;">
+      <span class="tc">
+        全部
+      </span>
+      -
+      <a href="/?feed=bilateral&amp;gid=10009">
+        好友圈
+      </a>
+      -
+      <a href="/attgroup/index">
+        分组
+      </a>
+      -
+      <a href="/fav/">
+        收藏
+      </a>
+      -
+      <a href="/1744649233/search?f=h&amp;rl=0">
+        筛选
+      </a>
+    </div>
+    <div class="u">
+      <table>
+        <tbody align="left">
+          <tr>
+            <td>
+              <a class="nk" href="/u/1976670053?re=1&amp;rl=0">
+                <img src="http://tp2.sinaimg.cn/1976670053/50/22842603985/1" alt="头像" class="por"/>
+              </a>
+            </td>
+            <td valign="top">
+              <a class="nk" href="/u/1976670053?re=1&amp;rl=0">
+                剑钧CAI
+              </a>
+               
+              <a href="/attention/add?uid=1976670053&amp;re=2&amp;st=2107">
+                关注他
+              </a>
+               
+              <a href="/?norecommend=1&amp;re=3">
+                关闭
+              </a>
+              <br/>
+              <span class="tc">
+                你的好友Nirgend-wo、丢掉的老时光共2人与他互相关注
+              </span>
+              <br/>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="c">
+      正在按时间顺序查看微博
+      <a href="/?feed=hot">
+        智能排序
+      </a>
+    </div>
+    <div class="c" id="M_BjrZd82zF">
+      <div>
+        <a class="nk" href="http://weibo.cn/hdacm">
+          杭电ACM
+        </a>
+        <span class="cmt">
+           转发了 
+          <a href="http://weibo.cn/hdacm">
+            杭电ACM
+          </a>
+           的微博:
+        </span>
+        <span class="ctt">
+          [话筒][2014多校联合训练]历时1个月的2014年多校联合训练赛全部结束了，所谓自古英雄出少年——最终，宁波市镇海中学team481强势称雄！另外，比赛前25名名单如下图，他们将分享万元奖金（请负责老师尽快将转账账号发送邮件到HDUACM [at] QQ.com）。再次感谢大家支持，来年多校见！
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPuHziq&amp;ep=BjrZd82zF%2C1958565745%2CBjrpLgDmq%2C1958565745">
+            http://t.cn/RPuHziq
+          </a>
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrpLgDmq?rl=0">
+          <img src="http://ww2.sinaimg.cn/wap180/74bd5771gw1ejl9vk48o4j20sd0t4wke.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrpLgDmq&amp;u=74bd5771gw1ejl9vk48o4j20sd0t4wke">
+          原图
+        </a>
+         
+        <span class="cmt">
+          赞[2]
+        </span>
+         
+        <span class="cmt">
+          原文转发[8]
+        </span>
+         
+        <a href="http://weibo.cn/comment/BjrpLgDmq?rl=0#cmtfrm" class="cc">
+          原文评论[8]
+        </a>
+        <!---->      </div>
+      <div>
+        <span class="cmt">
+          转发理由:
+        </span>
+        回复
+        <a href="/n/%E5%BA%B7Connoronnoc">
+          @康Connoronnoc
+        </a>
+        :必须的，现在是中国ACM八大高校之一！ //
+        <a href="/n/%E5%BA%B7Connoronnoc">
+          @康Connoronnoc
+        </a>
+        :华南理工好强。。  
+        <a href="http://weibo.cn/attitude/BjrZd82zF/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[0]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrZd82zF?uid=1958565745&amp;rl=0&amp;gid=10001">
+          转发[0]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrZd82zF?uid=1958565745&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[0]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrZd82zF?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          8分钟前 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrFE94kQ">
+      <div>
+        <a class="nk" href="http://weibo.cn/2588520">
+          我的前任是极品
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+        <span class="cmt">
+           转发了 
+          <a href="http://weibo.cn/u/2034490587">
+            白雪公主与七个郭茎明
+          </a>
+          <img src="http://u1.sinaimg.cn/upload/2011/08/16/5547.gif" alt="达人"/>
+          <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+           的微博:
+        </span>
+        <span class="ctt">
+          看醉了哈哈哈哈哈哈哈哈哈
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrBimrQR?rl=0">
+          <img src="http://ww2.sinaimg.cn/wap180/7943dcdbgw1ejlap2kws3j20g708p751.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrBimrQR&amp;u=7943dcdbgw1ejlap2kws3j20g708p751">
+          原图
+        </a>
+         
+        <span class="cmt">
+          赞[103]
+        </span>
+         
+        <span class="cmt">
+          原文转发[636]
+        </span>
+         
+        <a href="http://weibo.cn/comment/BjrBimrQR?rl=0#cmtfrm" class="cc">
+          原文评论[131]
+        </a>
+        <!---->      </div>
+      <div>
+        <span class="cmt">
+          转发理由:
+        </span>
+        谜の嗅觉//
+        <a href="/n/%E5%AD%A4%E7%A5%A3">
+          @孤祣
+        </a>
+        : 卧槽哈哈哈 //
+        <a href="/n/%E4%BD%A0%E5%85%88%E5%88%AB%E6%AD%BB%E7%AD%89%E6%88%91%E6%9D%A5%E6%95%91%E4%BD%A0">
+          @你先别死等我来救你
+        </a>
+        :。。。//
+        <a href="/n/%E5%90%B9%E8%9B%8B">
+          @吹蛋
+        </a>
+        : 噗。。。//
+        <a href="/n/%E4%B9%9D%E8%83%A5">
+          @九胥
+        </a>
+        :。。。  
+        <a href="http://weibo.cn/attitude/BjrFE94kQ/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[483]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrFE94kQ?uid=2182038504&amp;rl=0&amp;gid=10001">
+          转发[303]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrFE94kQ?uid=2182038504&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[344]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrFE94kQ?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          56分钟前 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjaHBgZHj">
+      <div>
+        <a class="nk" href="http://weibo.cn/u/3978239111?afr=ad&amp;mark=3_6AEA7A6EB90DEC18641A66EF179C5BFB7FC40CD5FDB26696B7A58F339EF339DE2D235A6CABE553E81F92ADB6B024B4D85CA7AE6E3037893351533659AE87BBAD10D76C0791D5B461943106ED6BAE7725E507B015EAB4180BDEEFD324301243783935FD52072BB20249B5DED03704D6A0CCFFCEA85B8518F3F3B179FFA464E89C">
+          OONE智能手机
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+        <span class="ctt">
+          :【OONE手机背后，你们不知道的事】为什么OONE隔空喊话罗老师？你以为的OONE手机和现实中的OONE手机有何认知上的差异？今天我们不谈情怀，谈点产品。
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2F8kPahqE&amp;ep=BjaHBgZHj%2C3978239111%2CBjaHBgZHj%2C3978239111?&amp;afr=ad&amp;mark=3_6AEA7A6EB90DEC18641A66EF179C5BFB7FC40CD5FDB26696B7A58F339EF339DE2D235A6CABE553E81F92ADB6B024B4D85CA7AE6E3037893351533659AE87BBAD10D76C0791D5B461943106ED6BAE7725E507B015EAB4180BDEEFD324301243783935FD52072BB20249B5DED03704D6A0CCFFCEA85B8518F3F3B179FFA464E89C">
+            http://t.cn/8kPahqE
+          </a>
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjaHBgZHj?rl=0">
+          <img src="http://ww3.sinaimg.cn/wap180/ed1f1c87gw1ejj7zww92vj20c81z9wra.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjaHBgZHj&amp;u=ed1f1c87gw1ejj7zww92vj20c81z9wra">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjaHBgZHj/add?uid=1744649233&amp;rl=0&amp;afr=ad&amp;mark=3_6AEA7A6EB90DEC18641A66EF179C5BFB7FC40CD5FDB26696B7A58F339EF339DE2D235A6CABE553E81F92ADB6B024B4D85CA7AE6E3037893351533659AE87BBAD10D76C0791D5B461943106ED6BAE7725E507B015EAB4180BDEEFD324301243783935FD52072BB20249B5DED03704D6A0CCFFCEA85B8518F3F3B179FFA464E89C&amp;gid=10001&amp;st=2107">
+          赞[61]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjaHBgZHj?uid=3978239111&amp;rl=0&amp;afr=ad&amp;mark=3_6AEA7A6EB90DEC18641A66EF179C5BFB7FC40CD5FDB26696B7A58F339EF339DE2D235A6CABE553E81F92ADB6B024B4D85CA7AE6E3037893351533659AE87BBAD10D76C0791D5B461943106ED6BAE7725E507B015EAB4180BDEEFD324301243783935FD52072BB20249B5DED03704D6A0CCFFCEA85B8518F3F3B179FFA464E89C&amp;gid=10001">
+          转发[76]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjaHBgZHj?uid=3978239111&amp;rl=0&amp;afr=ad&amp;mark=3_6AEA7A6EB90DEC18641A66EF179C5BFB7FC40CD5FDB26696B7A58F339EF339DE2D235A6CABE553E81F92ADB6B024B4D85CA7AE6E3037893351533659AE87BBAD10D76C0791D5B461943106ED6BAE7725E507B015EAB4180BDEEFD324301243783935FD52072BB20249B5DED03704D6A0CCFFCEA85B8518F3F3B179FFA464E89C&amp;gid=10001#cmtfrm" class="cc">
+          评论[256]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjaHBgZHj?rl=0&amp;afr=ad&amp;mark=3_6AEA7A6EB90DEC18641A66EF179C5BFB7FC40CD5FDB26696B7A58F339EF339DE2D235A6CABE553E81F92ADB6B024B4D85CA7AE6E3037893351533659AE87BBAD10D76C0791D5B461943106ED6BAE7725E507B015EAB4180BDEEFD324301243783935FD52072BB20249B5DED03704D6A0CCFFCEA85B8518F3F3B179FFA464E89C&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          推广 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrCUeL3m">
+      <div>
+        <a class="nk" href="http://weibo.cn/qihoo">
+          360安全卫士
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+        <span class="ctt">
+          :【“120名艺人涉毒名单.exe”是木马病毒，切勿点击】近期一个“120名艺人涉毒名单.exe”的木马文件通过网盘、群共享等方式传播，利用人们的好奇心吸引点击。该木马会设置自身开机启动，再根据木马控制端的指令记录键盘，盗取文档、图片等格式文件，请网友们注意防范，在安全软件报警时切勿冒险点击。
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrCUeL3m?rl=0">
+          <img src="http://ww2.sinaimg.cn/wap180/621a7f1bjw1ejlat9cdpxj20cw08kgmd.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrCUeL3m&amp;u=621a7f1bjw1ejlat9cdpxj20cw08kgmd">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjrCUeL3m/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[97]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrCUeL3m?uid=1645903643&amp;rl=0&amp;gid=10001">
+          转发[165]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrCUeL3m?uid=1645903643&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[43]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrCUeL3m?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:25 来自360安全浏览器
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrCl4jM5">
+      <div>
+        <a class="nk" href="http://weibo.cn/2588520">
+          我的前任是极品
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+        <span class="ctt">
+          :发现一组超萌的Grace姐姐头像！转需！！绘制：沈珂伊
+        </span>
+         [
+        <a href="http://weibo.cn/mblog/picAll/BjrCl4jM5?rl=1">
+          组图共9张
+        </a>
+        ]
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrCl4jM5?rl=0">
+          <img src="http://ww4.sinaimg.cn/wap180/820f43e8gw1ejlarnr7acj20k00k0dhg.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrCl4jM5&amp;u=820f43e8gw1ejlarnr7acj20k00k0dhg">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjrCl4jM5/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[1437]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrCl4jM5?uid=2182038504&amp;rl=0&amp;gid=10001">
+          转发[2469]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrCl4jM5?uid=2182038504&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[1333]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrCl4jM5?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:24 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrADzmAk">
+      <div>
+        <a class="nk" href="http://weibo.cn/2588520">
+          我的前任是极品
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+        <span class="ctt">
+          :被劈腿过的妹子们，你们是怎么发现男朋友出轨的？
+        </span>
+         
+        <a href="http://weibo.cn/attitude/BjrADzmAk/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[381]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrADzmAk?uid=2182038504&amp;rl=0&amp;gid=10001">
+          转发[163]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrADzmAk?uid=2182038504&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[1940]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrADzmAk?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:20 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrAxoaXk">
+      <div>
+        <a class="nk" href="http://weibo.cn/nikon">
+          尼康中国
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+        <span class="ctt">
+          :
+          <a href="http://weibo.cn/pages/100808topic?extparam=%E6%84%9F%E5%8F%97%E5%B0%BC%E5%BA%B7&amp;from=feed">
+            #感受尼康#
+          </a>
+          今天为大家带来的是D3100的视听使用手册，汇集了有关D3100使用的基础、关键技术和摄影技巧等众多信息，通过动画、视频、解说等生动的方式让您体验使用尼康数码相机的更多乐趣。点击链接，开始学习吧！
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPu8x57&amp;ep=BjrAxoaXk%2C2142312651%2CBjrAxoaXk%2C2142312651">
+            http://t.cn/RPu8x57
+          </a>
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrAxoaXk?rl=0">
+          <img src="http://ww1.sinaimg.cn/wap180/7fb118cbgw1ejkge7zxurj20pl0cb75k.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrAxoaXk&amp;u=7fb118cbgw1ejkge7zxurj20pl0cb75k">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjrAxoaXk/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[14]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrAxoaXk?uid=2142312651&amp;rl=0&amp;gid=10001">
+          转发[31]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrAxoaXk?uid=2142312651&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[15]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrAxoaXk?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:20 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjryDcuVE">
+      <div>
+        <a class="nk" href="http://weibo.cn/xiaomikeji">
+          小米公司
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+        <span class="cmt">
+           转发了 
+          <a href="http://weibo.cn/xiaomishouji">
+            小米手机
+          </a>
+          <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+           的微博:
+        </span>
+        <span class="ctt">
+          【3款新机型报到！8月26日首发】新学期，新手机！小米网下周二12点发售：红米Note 联通4G版999元，5.5英寸全贴合大屏；小米4 电信16GB版1999元，支持移动2G/联通3G/电信3G；小米4 联通64GB版2499元，超乎想象的工艺和手感！预约分享小米网微博，有机会赢取免单资格。火速转发预约：
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPa9FFu&amp;ep=BjryDcuVE%2C1771925961%2CBjjdctioA%2C2202387347">
+            http://t.cn/RPa9FFu
+          </a>
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjjdctioA?rl=0">
+          <img src="http://ww1.sinaimg.cn/wap180/8345c393jw1ejk9jnehfej20k0115mzi.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjjdctioA&amp;u=8345c393jw1ejk9jnehfej20k0115mzi">
+          原图
+        </a>
+         
+        <span class="cmt">
+          赞[336]
+        </span>
+         
+        <span class="cmt">
+          原文转发[594]
+        </span>
+         
+        <a href="http://weibo.cn/comment/BjjdctioA?rl=0#cmtfrm" class="cc">
+          原文评论[418]
+        </a>
+        <!---->      </div>
+      <div>
+        <span class="cmt">
+          转发理由:
+        </span>
+        新手机开卖啦：电信16GB、联通64GB
+        <a href="http://weibo.cn/pages/100808topic?extparam=%E5%B0%8F%E7%B1%B34&amp;from=feed">
+          #小米4#
+        </a>
+        ，联通4G红米Note！快到小米网预约，分享微博赢免单：
+        <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2F8sTfIBm&amp;ep=BjryDcuVE%2C1771925961%2CBjryDcuVE%2C1771925961">
+          http://t.cn/8sTfIBm
+        </a>
+          
+        <a href="http://weibo.cn/attitude/BjryDcuVE/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[88]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjryDcuVE?uid=1771925961&amp;rl=0&amp;gid=10001">
+          转发[96]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjryDcuVE?uid=1771925961&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[55]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjryDcuVE?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:15 来自专业版微博
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjruI0yeN">
+      <div>
+        <a class="nk" href="http://weibo.cn/u/5126161537">
+          微博游戏中心
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+        <span class="ctt">
+          :男朋友玩英雄联盟不理你你就知足吧,我对象因为玩《我爱消方块》不理我。[汗]（转）[应用]
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPcG991&amp;ep=BjruI0yeN%2C5126161537%2CBjruI0yeN%2C5126161537">
+            我爱消方块
+          </a>
+        </span>
+         
+        <a href="http://weibo.cn/attitude/BjruI0yeN/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[289]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjruI0yeN?uid=5126161537&amp;rl=0&amp;gid=10001">
+          转发[39]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjruI0yeN?uid=5126161537&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[35]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjruI0yeN?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:05 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrpLgDmq">
+      <div>
+        <a class="nk" href="http://weibo.cn/hdacm">
+          杭电ACM
+        </a>
+        <span class="ctt">
+          :[话筒][2014多校联合训练]历时1个月的2014年多校联合训练赛全部结束了，所谓自古英雄出少年——最终，宁波市镇海中学team481强势称雄！另外，比赛前25名名单如下图，他们将分享万元奖金（请负责老师尽快将转账账号发送邮件到HDUACM [at] QQ.com）。再次感谢大家支持，来年多校见！
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPuHziq&amp;ep=BjrpLgDmq%2C1958565745%2CBjrpLgDmq%2C1958565745">
+            http://t.cn/RPuHziq
+          </a>
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrpLgDmq?rl=0">
+          <img src="http://ww2.sinaimg.cn/wap180/74bd5771gw1ejl9vk48o4j20sd0t4wke.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrpLgDmq&amp;u=74bd5771gw1ejl9vk48o4j20sd0t4wke">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjrpLgDmq/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[2]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrpLgDmq?uid=1958565745&amp;rl=0&amp;gid=10001">
+          转发[8]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrpLgDmq?uid=1958565745&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[8]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrpLgDmq?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 11:53 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjroFiiKW">
+      <div>
+        <a class="nk" href="http://weibo.cn/2588520">
+          我的前任是极品
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+        <span class="ctt">
+          :前任给我发来的消息…要和好…找了一家龙猫求情……是不是该答应？
+        </span>
+         [
+        <a href="http://weibo.cn/mblog/picAll/BjroFiiKW?rl=1">
+          组图共6张
+        </a>
+        ]
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjroFiiKW?rl=0">
+          <img src="http://ww4.sinaimg.cn/wap180/820f43e8gw1ejl9speob0j20ci0got99.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjroFiiKW&amp;u=820f43e8gw1ejl9speob0j20ci0got99">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjroFiiKW/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[652]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjroFiiKW?uid=2182038504&amp;rl=0&amp;gid=10001">
+          转发[254]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjroFiiKW?uid=2182038504&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[438]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjroFiiKW?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 11:50 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="pa" id="pagelist">
+      <form action="/?since_id=0&amp;max_id=BjrkI3d0k&amp;prev_page=1" method="post">
+        <div>
+          <a href="/?since_id=0&amp;max_id=BjrkI3d0k&amp;prev_page=1&amp;page=2">
+            下页
+          </a>
+           
+          <input name="mp" type="hidden" value="50"/>
+          <input type="text" name="page" size="2" style="-wap-input-format: &quot;*N&quot;"/>
+          <input type="submit" value="跳页"/>
+           1/50页
+        </div>
+      </form>
+    </div>
+    <div class="pm">
+      <form action="/search/" method="post">
+        <div>
+          <input type="text" name="keyword" value="" size="15"/>
+          <input type="submit" name="smblog" value="搜微博"/>
+          <input type="submit" name="suser" value="找人"/>
+          <br/>
+          <span class="pmf">
+            <a href="/search/mblog/?keyword=%E6%9F%AF%E9%9C%87%E4%B8%9C%E6%88%BF%E7%A5%96%E5%90%8D%E5%90%B8%E6%AF%92&amp;rl=0" class="k">
+              柯震东房祖名吸毒
+            </a>
+             
+            <a href="/search/mblog/?keyword=%E9%85%B7%E7%8B%97%E6%8B%89%E7%A5%A8&amp;rl=0" class="k">
+              酷狗拉票
+            </a>
+             
+            <a href="/search/mblog/?keyword=%E9%82%82%E9%80%85%E6%9C%89%E6%9C%BA%E4%B8%80%E8%B5%B7%E5%8E%BB%E8%8D%89%E5%8E%9F&amp;rl=0" class="k">
+              邂逅有机一起去草原
+            </a>
+          </span>
+        </div>
+      </form>
+    </div>
+    <div class="cd">
+      <a href="#top">
+        <img src="http://u1.sinaimg.cn/3g/image/upload/0/62/203/18979/5e990ec2.gif" alt="TOP"/>
+      </a>
+    </div>
+    <div class="pms">
+      <a href="http://weibo.cn">
+        首页
+      </a>
+      .
+      <a href="http://weibo.cn/topic/240489">
+        反馈
+      </a>
+      .
+      <a href="http://weibo.cn/page/91">
+        帮助
+      </a>
+      .
+      <a href="http://down.sina.cn/weibo/default/index/soft_id/1/mid/0">
+        客户端
+      </a>
+      .
+      <a href="http://weibo.cn/spam/?rl=0&amp;type=3&amp;fuid=1744649233" class="kt">
+        举报
+      </a>
+      .
+      <a href="http://passport.sina.cn/sso/logout?r=http%3A%2F%2Fweibo.cn%2Fpub%2F%3Fvt%3D&amp;entry=mweibo">
+        退出
+      </a>
+    </div>
+    <div class="c">
+      设置:
+      <a href="http://weibo.cn/account/customize/skin?tf=7_005&amp;st=2107">
+        皮肤
+      </a>
+      .
+      <a href="http://weibo.cn/account/customize/pic?tf=7_006&amp;st=2107">
+        图片
+      </a>
+      .
+      <a href="http://weibo.cn/account/customize/pagesize?tf=7_007&amp;st=2107">
+        条数
+      </a>
+      .
+      <a href="http://weibo.cn/account/privacy/?tf=7_008&amp;st=2107">
+        隐私
+      </a>
+    </div>
+    <div class="c">
+      <a href="http://weibo.cn/account/customize/more?DisplayMode=1&amp;CssType=0&amp;tf=7_009&amp;st=2107">
+        简版
+      </a>
+      |彩版|
+      <a href="http://m.weibo.cn/?tf=7_010">
+        触屏
+      </a>
+      |
+      <a href="http://weibo.cn/page/521?tf=7_011">
+        语音
+      </a>
+    </div>
+    <div class="b">
+      weibo.cn[08-22 13:28]
+    </div>
+  </body>
+</html>
+
+2014-08-22 13:29:09 WARN   [processCookies] Cookie rejected [U_TRS1="00000033.2d8b6d7a.53f6d510.f99d10c8", version:0, domain:.sina.com.cn, path:/, expiry:Mon Aug 19 13:28:48 CST 2024] Illegal domain attribute "sina.com.cn". Domain of origin: "passport.weibo.com"
+2014-08-22 13:29:09 WARN   [processCookies] Cookie rejected [U_TRS2="00000033.2d976d7a.53f6d510.3a5b0cd7", version:0, domain:.sina.com.cn, path:/, expiry:null] Illegal domain attribute "sina.com.cn". Domain of origin: "passport.weibo.com"
+2014-08-22 13:29:10 INFO   [info] 我的首页
+广场.游戏.找人.更多
+首页|消息|话题|搜索|刷新
+v11yu[在线] 5级 资料95% 设置
+微博[49] 关注[49] 粉丝[275] @我的
+#中秋放假去哪#
+发布好友圈高级
+全部-好友圈-分组-收藏-筛选
+	Sunnie继续预言 关注他 关闭
+你的好友_RAULCHEN、ctliu3共2人与他互相关注
+正在按时间顺序查看微博智能排序
+杭电ACM 转发了 杭电ACM 的微博:[话筒][2014多校联合训练]历时1个月的2014年多校联合训练赛全部结束了，所谓自古英雄出少年——最终，宁波市镇海中学team481强势称雄！另外，比赛前25名名单如下图，他们将分享万元奖金（请负责老师尽快将转账账号发送邮件到HDUACM [at] QQ.com）。再次感谢大家支持，来年多校见！http://t.cn/RPuHziq
+ 原图 赞[2] 原文转发[8] 原文评论[8]
+转发理由:回复@康Connoronnoc:必须的，现在是中国ACM八大高校之一！ //@康Connoronnoc:华南理工好强。。  赞[0] 转发[0] 评论[0] 收藏 8分钟前 来自微博 weibo.com
+我的前任是极品 转发了 白雪公主与七个郭茎明 的微博:看醉了哈哈哈哈哈哈哈哈哈
+ 原图 赞[103] 原文转发[642] 原文评论[131]
+转发理由:谜の嗅觉//@孤祣: 卧槽哈哈哈 //@你先别死等我来救你:。。。//@吹蛋: 噗。。。//@九胥:。。。  赞[485] 转发[304] 评论[345] 收藏 57分钟前 来自微博 weibo.com
+360安全卫士:【“120名艺人涉毒名单.exe”是木马病毒，切勿点击】近期一个“120名艺人涉毒名单.exe”的木马文件通过网盘、群共享等方式传播，利用人们的好奇心吸引点击。该木马会设置自身开机启动，再根据木马控制端的指令记录键盘，盗取文档、图片等格式文件，请网友们注意防范，在安全软件报警时切勿冒险点击。
+ 原图 赞[97] 转发[165] 评论[43] 收藏 今天 12:25 来自360安全浏览器
+我的前任是极品:发现一组超萌的Grace姐姐头像！转需！！绘制：沈珂伊 [组图共9张]
+ 原图 赞[1469] 转发[2515] 评论[1352] 收藏 今天 12:24 来自微博 weibo.com
+我的前任是极品:被劈腿过的妹子们，你们是怎么发现男朋友出轨的？ 赞[385] 转发[164] 评论[1951] 收藏 今天 12:20 来自微博 weibo.com
+尼康中国:#感受尼康#今天为大家带来的是D3100的视听使用手册，汇集了有关D3100使用的基础、关键技术和摄影技巧等众多信息，通过动画、视频、解说等生动的方式让您体验使用尼康数码相机的更多乐趣。点击链接，开始学习吧！http://t.cn/RPu8x57
+ 原图 赞[14] 转发[31] 评论[15] 收藏 今天 12:20 来自微博 weibo.com
+小米公司 转发了 小米手机 的微博:【3款新机型报到！8月26日首发】新学期，新手机！小米网下周二12点发售：红米Note 联通4G版999元，5.5英寸全贴合大屏；小米4 电信16GB版1999元，支持移动2G/联通3G/电信3G；小米4 联通64GB版2499元，超乎想象的工艺和手感！预约分享小米网微博，有机会赢取免单资格。火速转发预约：http://t.cn/RPa9FFu
+ 原图 赞[336] 原文转发[596] 原文评论[418]
+转发理由:新手机开卖啦：电信16GB、联通64GB#小米4#，联通4G红米Note！快到小米网预约，分享微博赢免单：http://t.cn/8sTfIBm  赞[88] 转发[98] 评论[56] 收藏 今天 12:15 来自专业版微博
+微博游戏中心:男朋友玩英雄联盟不理你你就知足吧,我对象因为玩《我爱消方块》不理我。[汗]（转）[应用]我爱消方块 赞[290] 转发[39] 评论[35] 收藏 今天 12:05 来自微博 weibo.com
+杭电ACM:[话筒][2014多校联合训练]历时1个月的2014年多校联合训练赛全部结束了，所谓自古英雄出少年——最终，宁波市镇海中学team481强势称雄！另外，比赛前25名名单如下图，他们将分享万元奖金（请负责老师尽快将转账账号发送邮件到HDUACM [at] QQ.com）。再次感谢大家支持，来年多校见！http://t.cn/RPuHziq
+ 原图 赞[2] 转发[8] 评论[8] 收藏 今天 11:53 来自微博 weibo.com
+我的前任是极品:前任给我发来的消息…要和好…找了一家龙猫求情……是不是该答应？ [组图共6张]
+ 原图 赞[654] 转发[255] 评论[439] 收藏 今天 11:50 来自微博 weibo.com
+下页 跳页 1/50页
+搜微博找人
+陈翔破茧而声 TASTY 冰桶挑战哪位明星最帅
+首页.反馈.帮助.客户端.举报.退出
+设置:皮肤.图片.条数.隐私
+简版|彩版|触屏|语音
+weibo.cn[08-22 13:28]
+2014-08-22 13:29:10 INFO   [info] <?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+    <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0, maximum-scale=2.0"/>
+    <meta name="MobileOptimized" content="240"/>
+    <title>
+      我的首页
+    </title>
+    <style type="text/css" id="internalStyle">
+      html,body,p,form,div,table,textarea,input,span,select{font-size:12px;word-wrap:break-word;}body{background:#F8F9F9;color:#000;padding:1px;margin:1px;}table,tr,td{border-width:0px;margin:0px;padding:0px;}form{margin:0px;padding:0px;border:0px;}textarea{border:1px solid #96c1e6}textarea{width:95%;}a,.tl{color:#2a5492;text-decoration:underline;}/*a:link {color:#023298}*/.k{color:#2a5492;text-decoration:underline;}.kt{color:#F00;}.ib{border:1px solid #C1C1C1;}.pm,.pmy{clear:both;background:#ffffff;color:#676566;border:1px solid #b1cee7;padding:3px;margin:2px 1px;overflow:hidden;}.pms{clear:both;background:#c8d9f3;color:#666666;padding:3px;margin:0 1px;overflow:hidden;}.pmst{margin-top: 5px;}.pmsl{clear:both;padding:3px;margin:0 1px;overflow:hidden;}.pmy{background:#DADADA;border:1px solid #F8F8F8;}.t{padding:0px;margin:0px;height:35px;}.b{background:#e3efff;text-align:center;color:#2a5492;clear:both;padding:4px;}.bl{color:#2a5492;}.n{clear:both;background:#436193;color:#FFF;padding:4px; margin: 1px;}.nt{color:#b9e7ff;}.nl{color:#FFF;text-decoration:none;}.nfw{clear:both;border:1px solid #BACDEB;padding:3px;margin:2px 1px;}.s{border-bottom:1px dotted #666666;margin:3px;clear:both;}.tip{clear:both; background:#c8d9f3;color:#676566;border:1px solid #BACDEB;padding:3px;margin:2px 1px;}.tip2{color:#000000;padding:2px 3px;clear:both;}.ps{clear:both;background:#FFF;color:#676566;border:1px solid #BACDEB;padding:3px;margin:2px 1px;}.tm{background:#feffe5;border:1px solid #e6de8d;padding:4px;}.tm a{color:#ba8300;}.tmn{color:#f00}.tk{color:#ffffff}.tc{color:#63676A;}.c{padding:2px 5px;}.c div a img{border:1px solid #C1C1C1;}.ct{color:#9d9d9d;font-style:italic;}.cmt{color:#9d9d9d;}.ctt{color:#000;}.cc{color:#2a5492;}.nk{color:#2a5492;}.por {border: 1px solid #CCCCCC;height:50px;width:50px;}.me{color:#000000;background:#FEDFDF;padding:2px 5px;}.pa{padding:2px 4px;}.nm{margin:10px 5px;padding:2px;}.hm{padding:5px;background:#FFF;color:#63676A;}.u{margin:2px 1px;background:#ffffff;border:1px solid #b1cee7;}.ut{padding:2px 3px;}.cd{text-align:center;}.r{color:#F00;}.g{color:#0F0;}.bn{background: transparent;border: 0 none;text-align: left;padding-left: 0;}
+    </style>
+    <script>
+//<![CDATA[
+if(top != self){top.location = self.location;}
+//]]>
+    </script>
+  </head>
+  <body>
+    <div class="c">
+      <a href="/pub/?tf=5_005" id="top" class="tl">
+        广场
+      </a>
+      .
+      <a href="http://game.weibo.cn/?fcode=100110001003">
+        游戏
+      </a>
+      .
+      <a href="/find/?tf=5_007">
+        找人
+      </a>
+      .
+      <a href="/page/523?tf=5_008" class="tl">
+        更多
+      </a>
+    </div>
+    <div class="n" style="padding: 6px 4px;">
+      <a href="http://weibo.cn/?tf=5_009" class="nl">
+        首页
+      </a>
+      |
+      <a href="http://weibo.cn/msg/?tf=5_010" class="nl">
+        消息
+      </a>
+      |
+      <a href="http://huati.weibo.cn" class="nl">
+        话题
+      </a>
+      |
+      <a href="http://weibo.cn/search/?tf=5_012" class="nl">
+        搜索
+      </a>
+      |
+      <a href="/?rand=4604&amp;p=r" class="nl">
+        刷新
+      </a>
+    </div>
+    <div class="u">
+      <div class="ut">
+        v11yu[
+        <a href="/im/setprivacy?f=h">
+          在线
+        </a>
+        ]
+        <a href="http://vip2.weibo.cn/member/pay?F=W_tq_zsbs_01">
+          <img alt="M" src="http://u1.sinaimg.cn/upload/h5/img/members/hy_gray_s2.png"/>
+        </a>
+         
+        <a href="/1744649233/urank">
+          5级
+        </a>
+         
+        <a href="/1744649233/info">
+          资料95%
+        </a>
+         
+        <a href="/account/customize/?from=home&amp;st=2107">
+          设置
+        </a>
+      </div>
+      <div class="tip2">
+        <a href="/1744649233/profile">
+          微博[49]
+        </a>
+         
+        <a href="/1744649233/follow">
+          关注[49]
+        </a>
+         
+        <a href="/1744649233/fans">
+          粉丝[275]
+        </a>
+         
+        <a href="/at/weibo?uid=1744649233">
+          @我的
+        </a>
+      </div>
+    </div>
+    <div class="pms">
+      <form action="/mblog/sendmblog?st=2107" accept-charset="UTF-8" method="post">
+        <div>
+          <input type="hidden" name="rl" value="0"/>
+          <textarea name="content" rows="2" cols="20">#中秋放假去哪#</textarea>          <br/>
+          <input type="submit" value="发布"/>
+          <input type="submit" name="friends" value="好友圈"/>
+          <input type="submit" name="composer" value="高级"/>
+        </div>
+      </form>
+    </div>
+    <div class="pms" style="margin-top: 2px;">
+      <span class="tc">
+        全部
+      </span>
+      -
+      <a href="/?feed=bilateral&amp;gid=10009">
+        好友圈
+      </a>
+      -
+      <a href="/attgroup/index">
+        分组
+      </a>
+      -
+      <a href="/fav/">
+        收藏
+      </a>
+      -
+      <a href="/1744649233/search?f=h&amp;rl=0">
+        筛选
+      </a>
+    </div>
+    <div class="u">
+      <table>
+        <tbody align="left">
+          <tr>
+            <td>
+              <a class="nk" href="/fzusunnie?re=1&amp;rl=0">
+                <img src="http://tp4.sinaimg.cn/1920364675/50/40041216610/1" alt="头像" class="por"/>
+              </a>
+            </td>
+            <td valign="top">
+              <a class="nk" href="/fzusunnie?re=1&amp;rl=0">
+                Sunnie继续预言
+              </a>
+              <img src="http://u1.sinaimg.cn/upload/2011/08/16/5547.gif" alt="达人"/>
+               
+              <a href="/attention/add?uid=1920364675&amp;re=2&amp;st=2107">
+                关注他
+              </a>
+               
+              <a href="/?norecommend=1&amp;re=3">
+                关闭
+              </a>
+              <br/>
+              <span class="tc">
+                你的好友_RAULCHEN、ctliu3共2人与他互相关注
+              </span>
+              <br/>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="c">
+      正在按时间顺序查看微博
+      <a href="/?feed=hot">
+        智能排序
+      </a>
+    </div>
+    <div class="c" id="M_BjrZd82zF">
+      <div>
+        <a class="nk" href="http://weibo.cn/hdacm">
+          杭电ACM
+        </a>
+        <span class="cmt">
+           转发了 
+          <a href="http://weibo.cn/hdacm">
+            杭电ACM
+          </a>
+           的微博:
+        </span>
+        <span class="ctt">
+          [话筒][2014多校联合训练]历时1个月的2014年多校联合训练赛全部结束了，所谓自古英雄出少年——最终，宁波市镇海中学team481强势称雄！另外，比赛前25名名单如下图，他们将分享万元奖金（请负责老师尽快将转账账号发送邮件到HDUACM [at] QQ.com）。再次感谢大家支持，来年多校见！
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPuHziq&amp;ep=BjrZd82zF%2C1958565745%2CBjrpLgDmq%2C1958565745">
+            http://t.cn/RPuHziq
+          </a>
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrpLgDmq?rl=0">
+          <img src="http://ww2.sinaimg.cn/wap180/74bd5771gw1ejl9vk48o4j20sd0t4wke.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrpLgDmq&amp;u=74bd5771gw1ejl9vk48o4j20sd0t4wke">
+          原图
+        </a>
+         
+        <span class="cmt">
+          赞[2]
+        </span>
+         
+        <span class="cmt">
+          原文转发[8]
+        </span>
+         
+        <a href="http://weibo.cn/comment/BjrpLgDmq?rl=0#cmtfrm" class="cc">
+          原文评论[8]
+        </a>
+        <!---->      </div>
+      <div>
+        <span class="cmt">
+          转发理由:
+        </span>
+        回复
+        <a href="/n/%E5%BA%B7Connoronnoc">
+          @康Connoronnoc
+        </a>
+        :必须的，现在是中国ACM八大高校之一！ //
+        <a href="/n/%E5%BA%B7Connoronnoc">
+          @康Connoronnoc
+        </a>
+        :华南理工好强。。  
+        <a href="http://weibo.cn/attitude/BjrZd82zF/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[0]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrZd82zF?uid=1958565745&amp;rl=0&amp;gid=10001">
+          转发[0]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrZd82zF?uid=1958565745&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[0]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrZd82zF?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          8分钟前 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrFE94kQ">
+      <div>
+        <a class="nk" href="http://weibo.cn/2588520">
+          我的前任是极品
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+        <span class="cmt">
+           转发了 
+          <a href="http://weibo.cn/u/2034490587">
+            白雪公主与七个郭茎明
+          </a>
+          <img src="http://u1.sinaimg.cn/upload/2011/08/16/5547.gif" alt="达人"/>
+          <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+           的微博:
+        </span>
+        <span class="ctt">
+          看醉了哈哈哈哈哈哈哈哈哈
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrBimrQR?rl=0">
+          <img src="http://ww2.sinaimg.cn/wap180/7943dcdbgw1ejlap2kws3j20g708p751.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrBimrQR&amp;u=7943dcdbgw1ejlap2kws3j20g708p751">
+          原图
+        </a>
+         
+        <span class="cmt">
+          赞[103]
+        </span>
+         
+        <span class="cmt">
+          原文转发[642]
+        </span>
+         
+        <a href="http://weibo.cn/comment/BjrBimrQR?rl=0#cmtfrm" class="cc">
+          原文评论[131]
+        </a>
+        <!---->      </div>
+      <div>
+        <span class="cmt">
+          转发理由:
+        </span>
+        谜の嗅觉//
+        <a href="/n/%E5%AD%A4%E7%A5%A3">
+          @孤祣
+        </a>
+        : 卧槽哈哈哈 //
+        <a href="/n/%E4%BD%A0%E5%85%88%E5%88%AB%E6%AD%BB%E7%AD%89%E6%88%91%E6%9D%A5%E6%95%91%E4%BD%A0">
+          @你先别死等我来救你
+        </a>
+        :。。。//
+        <a href="/n/%E5%90%B9%E8%9B%8B">
+          @吹蛋
+        </a>
+        : 噗。。。//
+        <a href="/n/%E4%B9%9D%E8%83%A5">
+          @九胥
+        </a>
+        :。。。  
+        <a href="http://weibo.cn/attitude/BjrFE94kQ/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[485]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrFE94kQ?uid=2182038504&amp;rl=0&amp;gid=10001">
+          转发[304]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrFE94kQ?uid=2182038504&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[345]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrFE94kQ?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          57分钟前 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrCUeL3m">
+      <div>
+        <a class="nk" href="http://weibo.cn/qihoo">
+          360安全卫士
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+        <span class="ctt">
+          :【“120名艺人涉毒名单.exe”是木马病毒，切勿点击】近期一个“120名艺人涉毒名单.exe”的木马文件通过网盘、群共享等方式传播，利用人们的好奇心吸引点击。该木马会设置自身开机启动，再根据木马控制端的指令记录键盘，盗取文档、图片等格式文件，请网友们注意防范，在安全软件报警时切勿冒险点击。
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrCUeL3m?rl=0">
+          <img src="http://ww2.sinaimg.cn/wap180/621a7f1bjw1ejlat9cdpxj20cw08kgmd.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrCUeL3m&amp;u=621a7f1bjw1ejlat9cdpxj20cw08kgmd">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjrCUeL3m/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[97]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrCUeL3m?uid=1645903643&amp;rl=0&amp;gid=10001">
+          转发[165]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrCUeL3m?uid=1645903643&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[43]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrCUeL3m?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:25 来自360安全浏览器
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrCl4jM5">
+      <div>
+        <a class="nk" href="http://weibo.cn/2588520">
+          我的前任是极品
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+        <span class="ctt">
+          :发现一组超萌的Grace姐姐头像！转需！！绘制：沈珂伊
+        </span>
+         [
+        <a href="http://weibo.cn/mblog/picAll/BjrCl4jM5?rl=1">
+          组图共9张
+        </a>
+        ]
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrCl4jM5?rl=0">
+          <img src="http://ww4.sinaimg.cn/wap180/820f43e8gw1ejlarnr7acj20k00k0dhg.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrCl4jM5&amp;u=820f43e8gw1ejlarnr7acj20k00k0dhg">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjrCl4jM5/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[1469]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrCl4jM5?uid=2182038504&amp;rl=0&amp;gid=10001">
+          转发[2515]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrCl4jM5?uid=2182038504&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[1352]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrCl4jM5?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:24 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrADzmAk">
+      <div>
+        <a class="nk" href="http://weibo.cn/2588520">
+          我的前任是极品
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+        <span class="ctt">
+          :被劈腿过的妹子们，你们是怎么发现男朋友出轨的？
+        </span>
+         
+        <a href="http://weibo.cn/attitude/BjrADzmAk/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[385]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrADzmAk?uid=2182038504&amp;rl=0&amp;gid=10001">
+          转发[164]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrADzmAk?uid=2182038504&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[1951]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrADzmAk?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:20 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrAxoaXk">
+      <div>
+        <a class="nk" href="http://weibo.cn/nikon">
+          尼康中国
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+        <span class="ctt">
+          :
+          <a href="http://weibo.cn/pages/100808topic?extparam=%E6%84%9F%E5%8F%97%E5%B0%BC%E5%BA%B7&amp;from=feed">
+            #感受尼康#
+          </a>
+          今天为大家带来的是D3100的视听使用手册，汇集了有关D3100使用的基础、关键技术和摄影技巧等众多信息，通过动画、视频、解说等生动的方式让您体验使用尼康数码相机的更多乐趣。点击链接，开始学习吧！
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPu8x57&amp;ep=BjrAxoaXk%2C2142312651%2CBjrAxoaXk%2C2142312651">
+            http://t.cn/RPu8x57
+          </a>
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrAxoaXk?rl=0">
+          <img src="http://ww1.sinaimg.cn/wap180/7fb118cbgw1ejkge7zxurj20pl0cb75k.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrAxoaXk&amp;u=7fb118cbgw1ejkge7zxurj20pl0cb75k">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjrAxoaXk/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[14]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrAxoaXk?uid=2142312651&amp;rl=0&amp;gid=10001">
+          转发[31]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrAxoaXk?uid=2142312651&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[15]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrAxoaXk?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:20 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjryDcuVE">
+      <div>
+        <a class="nk" href="http://weibo.cn/xiaomikeji">
+          小米公司
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+        <span class="cmt">
+           转发了 
+          <a href="http://weibo.cn/xiaomishouji">
+            小米手机
+          </a>
+          <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+           的微博:
+        </span>
+        <span class="ctt">
+          【3款新机型报到！8月26日首发】新学期，新手机！小米网下周二12点发售：红米Note 联通4G版999元，5.5英寸全贴合大屏；小米4 电信16GB版1999元，支持移动2G/联通3G/电信3G；小米4 联通64GB版2499元，超乎想象的工艺和手感！预约分享小米网微博，有机会赢取免单资格。火速转发预约：
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPa9FFu&amp;ep=BjryDcuVE%2C1771925961%2CBjjdctioA%2C2202387347">
+            http://t.cn/RPa9FFu
+          </a>
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjjdctioA?rl=0">
+          <img src="http://ww1.sinaimg.cn/wap180/8345c393jw1ejk9jnehfej20k0115mzi.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjjdctioA&amp;u=8345c393jw1ejk9jnehfej20k0115mzi">
+          原图
+        </a>
+         
+        <span class="cmt">
+          赞[336]
+        </span>
+         
+        <span class="cmt">
+          原文转发[596]
+        </span>
+         
+        <a href="http://weibo.cn/comment/BjjdctioA?rl=0#cmtfrm" class="cc">
+          原文评论[418]
+        </a>
+        <!---->      </div>
+      <div>
+        <span class="cmt">
+          转发理由:
+        </span>
+        新手机开卖啦：电信16GB、联通64GB
+        <a href="http://weibo.cn/pages/100808topic?extparam=%E5%B0%8F%E7%B1%B34&amp;from=feed">
+          #小米4#
+        </a>
+        ，联通4G红米Note！快到小米网预约，分享微博赢免单：
+        <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2F8sTfIBm&amp;ep=BjryDcuVE%2C1771925961%2CBjryDcuVE%2C1771925961">
+          http://t.cn/8sTfIBm
+        </a>
+          
+        <a href="http://weibo.cn/attitude/BjryDcuVE/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[88]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjryDcuVE?uid=1771925961&amp;rl=0&amp;gid=10001">
+          转发[98]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjryDcuVE?uid=1771925961&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[56]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjryDcuVE?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:15 来自专业版微博
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjruI0yeN">
+      <div>
+        <a class="nk" href="http://weibo.cn/u/5126161537">
+          微博游戏中心
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/2011/07/28/5337.gif" alt="V"/>
+        <span class="ctt">
+          :男朋友玩英雄联盟不理你你就知足吧,我对象因为玩《我爱消方块》不理我。[汗]（转）[应用]
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPcG991&amp;ep=BjruI0yeN%2C5126161537%2CBjruI0yeN%2C5126161537">
+            我爱消方块
+          </a>
+        </span>
+         
+        <a href="http://weibo.cn/attitude/BjruI0yeN/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[290]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjruI0yeN?uid=5126161537&amp;rl=0&amp;gid=10001">
+          转发[39]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjruI0yeN?uid=5126161537&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[35]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjruI0yeN?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 12:05 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjrpLgDmq">
+      <div>
+        <a class="nk" href="http://weibo.cn/hdacm">
+          杭电ACM
+        </a>
+        <span class="ctt">
+          :[话筒][2014多校联合训练]历时1个月的2014年多校联合训练赛全部结束了，所谓自古英雄出少年——最终，宁波市镇海中学team481强势称雄！另外，比赛前25名名单如下图，他们将分享万元奖金（请负责老师尽快将转账账号发送邮件到HDUACM [at] QQ.com）。再次感谢大家支持，来年多校见！
+          <a href="http://weibo.cn/sinaurl?f=w&amp;u=http%3A%2F%2Ft.cn%2FRPuHziq&amp;ep=BjrpLgDmq%2C1958565745%2CBjrpLgDmq%2C1958565745">
+            http://t.cn/RPuHziq
+          </a>
+        </span>
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjrpLgDmq?rl=0">
+          <img src="http://ww2.sinaimg.cn/wap180/74bd5771gw1ejl9vk48o4j20sd0t4wke.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjrpLgDmq&amp;u=74bd5771gw1ejl9vk48o4j20sd0t4wke">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjrpLgDmq/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[2]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjrpLgDmq?uid=1958565745&amp;rl=0&amp;gid=10001">
+          转发[8]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjrpLgDmq?uid=1958565745&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[8]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjrpLgDmq?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 11:53 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="c" id="M_BjroFiiKW">
+      <div>
+        <a class="nk" href="http://weibo.cn/2588520">
+          我的前任是极品
+        </a>
+        <img src="http://u1.sinaimg.cn/upload/h5/img/hyzs/donate_btn_s.png" alt="M"/>
+        <span class="ctt">
+          :前任给我发来的消息…要和好…找了一家龙猫求情……是不是该答应？
+        </span>
+         [
+        <a href="http://weibo.cn/mblog/picAll/BjroFiiKW?rl=1">
+          组图共6张
+        </a>
+        ]
+      </div>
+      <div>
+        <a href="http://weibo.cn/mblog/pic/BjroFiiKW?rl=0">
+          <img src="http://ww4.sinaimg.cn/wap180/820f43e8gw1ejl9speob0j20ci0got99.jpg" alt="图片" class="ib"/>
+        </a>
+         
+        <a href="http://weibo.cn/mblog/oripic?id=BjroFiiKW&amp;u=820f43e8gw1ejl9speob0j20ci0got99">
+          原图
+        </a>
+         
+        <a href="http://weibo.cn/attitude/BjroFiiKW/add?uid=1744649233&amp;rl=0&amp;gid=10001&amp;st=2107">
+          赞[654]
+        </a>
+         
+        <a href="http://weibo.cn/repost/BjroFiiKW?uid=2182038504&amp;rl=0&amp;gid=10001">
+          转发[255]
+        </a>
+         
+        <a href="http://weibo.cn/comment/BjroFiiKW?uid=2182038504&amp;rl=0&amp;gid=10001#cmtfrm" class="cc">
+          评论[439]
+        </a>
+         
+        <a href="http://weibo.cn/fav/addFav/BjroFiiKW?rl=0&amp;st=2107">
+          收藏
+        </a>
+        <!---->         
+        <span class="ct">
+          今天 11:50 来自微博 weibo.com
+        </span>
+      </div>
+    </div>
+    <div class="s">
+    </div>
+    <div class="pa" id="pagelist">
+      <form action="/?since_id=0&amp;max_id=BjrkI3d0k&amp;prev_page=1" method="post">
+        <div>
+          <a href="/?since_id=0&amp;max_id=BjrkI3d0k&amp;prev_page=1&amp;page=2">
+            下页
+          </a>
+           
+          <input name="mp" type="hidden" value="50"/>
+          <input type="text" name="page" size="2" style="-wap-input-format: &quot;*N&quot;"/>
+          <input type="submit" value="跳页"/>
+           1/50页
+        </div>
+      </form>
+    </div>
+    <div class="pm">
+      <form action="/search/" method="post">
+        <div>
+          <input type="text" name="keyword" value="" size="15"/>
+          <input type="submit" name="smblog" value="搜微博"/>
+          <input type="submit" name="suser" value="找人"/>
+          <br/>
+          <span class="pmf">
+            <a href="/search/mblog/?keyword=%E9%99%88%E7%BF%94%E7%A0%B4%E8%8C%A7%E8%80%8C%E5%A3%B0&amp;rl=0" class="k">
+              陈翔破茧而声
+            </a>
+             
+            <a href="/search/mblog/?keyword=TASTY&amp;rl=0" class="k">
+              TASTY
+            </a>
+             
+            <a href="/search/mblog/?keyword=%E5%86%B0%E6%A1%B6%E6%8C%91%E6%88%98%E5%93%AA%E4%BD%8D%E6%98%8E%E6%98%9F%E6%9C%80%E5%B8%85&amp;rl=0" class="k">
+              冰桶挑战哪位明星最帅
+            </a>
+          </span>
+        </div>
+      </form>
+    </div>
+    <div class="cd">
+      <a href="#top">
+        <img src="http://u1.sinaimg.cn/3g/image/upload/0/62/203/18979/5e990ec2.gif" alt="TOP"/>
+      </a>
+    </div>
+    <div class="pms">
+      <a href="http://weibo.cn">
+        首页
+      </a>
+      .
+      <a href="http://weibo.cn/topic/240489">
+        反馈
+      </a>
+      .
+      <a href="http://weibo.cn/page/91">
+        帮助
+      </a>
+      .
+      <a href="http://down.sina.cn/weibo/default/index/soft_id/1/mid/0">
+        客户端
+      </a>
+      .
+      <a href="http://weibo.cn/spam/?rl=0&amp;type=3&amp;fuid=1744649233" class="kt">
+        举报
+      </a>
+      .
+      <a href="http://passport.sina.cn/sso/logout?r=http%3A%2F%2Fweibo.cn%2Fpub%2F%3Fvt%3D&amp;entry=mweibo">
+        退出
+      </a>
+    </div>
+    <div class="c">
+      设置:
+      <a href="http://weibo.cn/account/customize/skin?tf=7_005&amp;st=2107">
+        皮肤
+      </a>
+      .
+      <a href="http://weibo.cn/account/customize/pic?tf=7_006&amp;st=2107">
+        图片
+      </a>
+      .
+      <a href="http://weibo.cn/account/customize/pagesize?tf=7_007&amp;st=2107">
+        条数
+      </a>
+      .
+      <a href="http://weibo.cn/account/privacy/?tf=7_008&amp;st=2107">
+        隐私
+      </a>
+    </div>
+    <div class="c">
+      <a href="http://weibo.cn/account/customize/more?DisplayMode=1&amp;CssType=0&amp;tf=7_009&amp;st=2107">
+        简版
+      </a>
+      |彩版|
+      <a href="http://m.weibo.cn/?tf=7_010">
+        触屏
+      </a>
+      |
+      <a href="http://weibo.cn/page/521?tf=7_011">
+        语音
+      </a>
+    </div>
+    <div class="b">
+      weibo.cn[08-22 13:28]
+    </div>
+  </body>
+</html>
+
