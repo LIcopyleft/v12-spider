@@ -60,6 +60,10 @@ public class SinaTopicMonitorThread extends Thread {
 		CookieManager cookieMan = webClient.getCookieManager();
 		cookieMan.setCookiesEnabled(true);
 	}
+	/**
+	 * 登陆微博
+	 * 初始化 advanceSearch 的值，该值用于后续的搜索中
+	 */
 	private void login(){
 		try {
 			HtmlPage loginPage = webClient.getPage(loginUrl);
@@ -71,12 +75,41 @@ public class SinaTopicMonitorThread extends Thread {
 			password.setValueAttribute("wywywy1991");
 			HtmlSubmitInput loginHref = loginPage.getElementByName("submit");
 			HtmlPage resultPage = loginHref.click();
-			showPage(resultPage);
+			HtmlElement searchHref = resultPage
+					.getFirstByXPath("//a[text()='搜索']");
+			HtmlPage searchPage = searchHref.click();
+			HtmlElement advanceSearchElement = searchPage
+					.getFirstByXPath("//a[text()='高级搜索>>']");
+			advanceSearch = advanceSearchElement.click();
 		} catch (FailingHttpStatusCodeException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (MalformedURLException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	private void search() {
+		try {
+			HtmlElement origin = advanceSearch.getElementByName("hasori");
+			origin.click();// 点击原创
+			for (int i = 0; i < keyWords.size(); i++) {
+				try {
+					getSearchResult(keyWords.get(i));
+				} catch (Exception e) {
+					SpiderLog.error("获取关键词" + keyWords.get(i) + "的搜索结果失败！");
+				}
+				Thread.sleep(2200 + 1000 * (new Random()).nextInt(6));
+			}
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
@@ -92,8 +125,7 @@ public class SinaTopicMonitorThread extends Thread {
 			}
 			initClient();
 			login();
-			
-
+			search();
 			
 
 //			
@@ -130,7 +162,7 @@ public class SinaTopicMonitorThread extends Thread {
 		} catch (FailingHttpStatusCodeException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
+		} 
 	}
 
 
@@ -140,26 +172,23 @@ public class SinaTopicMonitorThread extends Thread {
 	 * @throws IOException
 	 */
 	public void getSearchResult(String word) throws IOException {
-		HtmlElement keyWordElement = advanceSearch.getElementByName("keyword");
-		keyWordElement.setAttribute("value", "");
-		keyWordElement.click();
-		keyWordElement.type(word);
+		HtmlInput keyWordElement = advanceSearch.getElementByName("keyword");
+		keyWordElement.setValueAttribute(word);
 		HtmlElement keyWordSearchElement = advanceSearch.getFirstByXPath("//input[@value='搜索']");
 		HtmlPage searchResult = keyWordSearchElement.click();
 		List<HtmlElement> resultWeibos = (List<HtmlElement>) searchResult.getByXPath("//div[@id]");
 		int count = 0;
-		for (int i = 0; i < resultWeibos.size(); i++) {
-			HtmlElement element = resultWeibos.get(i);
+		for (HtmlElement element : resultWeibos) {
 			String divId = element.getAttribute("id");
 			if (!divId.equals("pagelist")) {
-				divId = divId.substring(divId.indexOf("_") + 1);
+				SpiderLog.info(element.asText());
 
 				count++;
 			}
 		}
 		searchResult.cleanUp();
 		searchResult = null;
-		System.out.println(word+"关键词获得的搜索结果数为："+count);
+		SpiderLog.info(word+"关键词获得的搜索结果数为："+count);
 	}
 
 	/**
