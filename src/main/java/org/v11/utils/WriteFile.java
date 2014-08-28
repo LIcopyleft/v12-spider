@@ -39,7 +39,7 @@ public class WriteFile {
 			Entry<String,Integer> entry = null;
 			while(iter.hasNext()){
 				entry = iter.next();
-				wr.write(entry.getKey()+" "+entry.getValue()+"\n");
+				wr.write(entry.getKey()+"	"+entry.getValue()+"\n");
 			}
 			wr.close();
 		} catch (Exception e) {

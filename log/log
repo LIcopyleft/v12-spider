@@ -7828,3 +7828,376 @@ _WWW_SRV_T =276.57;
 2014-08-28 17:10:48 INFO   [work] rank 2
 2014-08-28 17:10:48 INFO   [work] 主要内容 南方航空 东方航空 海南航空官方网站 深圳航空 国航 
 2014-08-28 17:10:48 INFO   [work] url www.hnair.com
+2014-08-28 17:36:58 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:37:42 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:40:12 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:40:15 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:40:53 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:40:56 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:43:00 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:43:03 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:43:05 ERROR  [getUrl] <div class="result c-container " id="1" srcid="1528" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EA',
+			'F1':'9D73B1E4',
+			'F2':'4CA6DE6B',
+			'F3':'54E5343F',
+			'T':'1409218961',
+						'y':'5DBB3ADD'
+			 
+									}" href="//www.baidu.com/link?url=Qu5H7oWGjhdN0t0SXFsa2vVmQFQRqKJfo1SjxXz5caS_2fskJ51tqzlNOrBuH3CmYZ6xIEFFB_d_rn1kuxK_Yq" target="_blank"> HU( <em> 海南航空 </em> )是不是最 <em> 垃圾 </em> 的航空公司?_百度知道 </a> </h3> 
+ <p class="f13 m"> 5个回答 - 提问时间: 2012年08月29日 </p> 
+ <div class="c-abstract"> 
+  <em> 海航 </em> 是个大公司,还是很不错的,尤其是旗下的香港 
+  <em> 航空 </em> ,但是资金最近好像出了点问题。至少没像春秋那样干出那么丢人的事,为了几百块钱居然把客人拉黑,架子比 
+  <em> 海航 </em> 大... 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> zhidao.baidu.com/link?...&nbsp;2012-08-29&nbsp; </span> 
+  <div class="c-tools" id="tools_6804018396813466537" data-tools="{&quot;title&quot;:&quot;HU(海南航空)是不是最垃圾的航空公司?_百度知道&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=Qu5H7oWGjhdN0t0SXFsa2vVmQFQRqKJfo1SjxXz5caS_2fskJ51tqzlNOrBuH3CmYZ6xIEFFB_d_rn1kuxK_Yq&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3DQu5H7oWGjhdN0t0SXFsa2vVmQFQRqKJfo1SjxXz5caS_2fskJ51tqzlNOrBuH3CmYZ6xIEFFB_d_rn1kuxK_Yq&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%01HU%01%28%02%E6%B5%B7%E5%8D%97%01%E8%88%AA%E7%A9%BA%03%29%01%E6%98%AF%01%E4%B8%8D%01%E6%98%AF%01%E6%9C%80%02%E5%9E%83%E5%9C%BE%03%E7%9A%84%01%E8%88%AA%E7%A9%BA%01%E5%85%AC%E5%8F%B8%01%3F%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BA%A3%C4%CF%BA%BD%BF%D5%20%C0%AC%BB%F8&amp;key=surl" target="_blank" class="m"> 86%好评 </a> </span> 
+ </div> 
+ <div class="c-offset"> 
+  <table class="subLink_factory subLink_factory_right"> 
+   <tbody align="left"> 
+    <tr> 
+     <td class="first c-default "> <a href="//www.baidu.com/link?url=bji0lX_sEQ0u77IxQnmyNrrMGnbjQL3VLyfwdk0WwUJ0UmbjFrEAuK3Ik1QdFad2qZW9X_hQO6p5NjDxh2vtaa" target="_blank"> <em> 海南航空 </em> 是垄断行业中的 <em> 垃圾 </em> 股吗? </a> </td> 
+     <td class="middle c-default "> 2个回答 </td> 
+     <td class="last c-default rightTd"> 2007-10-17 </td> 
+    </tr> 
+    <tr> 
+     <td class="first c-default "> <a href="//www.baidu.com/link?url=SlqO16OoyKPqsMsCd2MnHJjwVFMXZW-utRIHzqzywFP8IdYDpVWZAzEUjyubxNmsyHOnkAEnj4_sJLx82szW-_" target="_blank"> <em> 海航 </em> 天天快递还真是 <em> 垃圾 </em> !请慎重…… </a> </td> 
+     <td class="middle c-default "> 2个回答 </td> 
+     <td class="last c-default rightTd"> 2012-08-23 </td> 
+    </tr> 
+    <tr> 
+     <td class="first c-default "> <a href="//www.baidu.com/link?url=SlqO16OoyKPqsMsCd2MnHJjwVFMXZW-utRIHzqzywFP8IdYDpVWZAzEUjyubxNmsBbBCYh_PzoStqXHPwhKg1a" target="_blank"> <em> 海航 </em> 天天快递真的很 <em> 垃圾 </em> 吗? </a> </td> 
+     <td class="middle c-default "> 8个回答 </td> 
+     <td class="last c-default rightTd"> 2011-06-07 </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <a href="//www.baidu.com/link?url=eVqe8pfs9RI-qa-u9TIrRu9eD-OhhB5KT1HS24H5kx1sNxxuPl_fftRat7dS2HAxCXWQYjEhVi5VRND1PNfYETZOI1v8Ag1H8nRvV1S4tvpPofOVuH_TWFWZ4n8IXwo5dCo8jfXuy0oerOXG2jTEvgFEZkEGCBRhSoW5kL47U1K" target="_blank" class="c"> 更多知道相关问题&gt;&gt; </a> 
+ </div> 
+</div>
+2014-08-28 17:43:05 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:43:07 ERROR  [getUrl] <div class="result c-container " id="1" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EB',
+			'F1':'9D73F1E4',
+			'F2':'4CA6DD6B',
+			'F3':'54E5343E',
+			'T':'1409218963',
+						'y':'7F5E53D7'
+			 
+									}" href="//www.baidu.com/link?url=1l_-gIAPd3Rm3Fe6TQIrs6UEv9Wkbj9Da84HoLtp8IE7qcjNvUfj20j5wmcsQlwV4XLaD3GCXf1Rbc4D0A8D4q" target="_blank"> <em> 海航 </em> 天天 <em> 快递 </em> 真的很 <em> 垃圾 </em> 吗?_百度知道 </a> </h3> 
+ <p class="f13 m"> 8个回答 - 提问时间: 2011年06月07日 </p> 
+ <div class="c-abstract"> 
+  <span class="m"> 最佳答案: </span> 我有个朋友刚好前几天请这家公司托运了, 
+  <em> 快递 </em> 了一些吃的吧!速度还是蛮快的, 
+  <em> 快递 </em> 到了以后没有电话通知,据说东西都被这家 
+  <em> 快递 </em> 公司的吃完了,唉... 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> zhidao.baidu.com/link?...&nbsp;2011-06-07&nbsp; </span> 
+  <div class="c-tools" id="tools_138768670987324172" data-tools="{&quot;title&quot;:&quot;海航天天快递真的很垃圾吗?_百度知道&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=1l_-gIAPd3Rm3Fe6TQIrs6UEv9Wkbj9Da84HoLtp8IE7qcjNvUfj20j5wmcsQlwV4XLaD3GCXf1Rbc4D0A8D4q&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> &nbsp;-&nbsp; 
+  <a data-nolog="" href="http://cache.baiducontent.com/c?m=9d78d513d9d431dc4f9e95697d65c0166f4381132ba6a70208a0843990732f44506692ac56200777a2d20c1716db4348adb0687d6d4566f58cc9fb57c0f3c87379db7a23706bd61249855eb8cb31749c7f8d19aef858a1e1ad6e8eaed7d7db5753cc52026d8087d11c5f4a&amp;p=9770df37a4af12a05abd9b7e0e1cc6&amp;newp=8671c64ad49d5bf308e2947d0749c423161cda386a848d0a3b8fd125956e055b1b&amp;user=baidu&amp;fm=sc&amp;query=%BA%A3%BA%BD%CE%EF%C1%F7+%C0%AC%BB%F8&amp;qid=&amp;p1=1" target="_blank" class="m"> 百度快照 </a> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3D1l_-gIAPd3Rm3Fe6TQIrs6UEv9Wkbj9Da84HoLtp8IE7qcjNvUfj20j5wmcsQlwV4XLaD3GCXf1Rbc4D0A8D4q&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E6%B5%B7%E8%88%AA%03%E5%A4%A9%E5%A4%A9%02%E5%BF%AB%E9%80%92%03%E7%9C%9F%01%E7%9A%84%01%E5%BE%88%02%E5%9E%83%E5%9C%BE%03%E5%90%97%01%3F%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BA%A3%BA%BD%CE%EF%C1%F7%20%C0%AC%BB%F8&amp;key=surl" target="_blank" class="m"> 86%好评 </a> </span> 
+ </div> 
+</div>
+2014-08-28 17:43:07 ERROR  [getUrl] <div class="result c-container " id="2" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EB',
+			'F1':'9D73F1E4',
+			'F2':'4C86DD6B',
+			'F3':'54E5343E',
+			'T':'1409218963',
+						'y':'6D6BFFBF'
+			 
+									}" href="//www.baidu.com/link?url=1xyIjB2c_2kPGwTNroz8vSu5zuI8o9X0OBCe2UCtgzMyFTalEEESySQQ0tK07HNIKmHrciDe576lrLvPKH-B-K" target="_blank"> <em> 海航 </em> 天天 <em> 快递 </em> 还真是 <em> 垃圾 </em> !请慎重……_百度知道 </a> </h3> 
+ <p class="f13 m"> 2个回答 - 提问时间: 2012年08月23日 </p> 
+ <div class="c-abstract"> 
+  <em> 海航 </em> ?是海军属下办的 
+  <em> 快递 </em> 吗?和海军一样对日软蛋,对内牛叉 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> zhidao.baidu.com/link?...&nbsp;2012-08-23&nbsp; </span> 
+  <div class="c-tools" id="tools_3753669180342035559" data-tools="{&quot;title&quot;:&quot;海航天天快递还真是垃圾!请慎重……_百度知道&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=1xyIjB2c_2kPGwTNroz8vSu5zuI8o9X0OBCe2UCtgzMyFTalEEESySQQ0tK07HNIKmHrciDe576lrLvPKH-B-K&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> &nbsp;-&nbsp; 
+  <a data-nolog="" href="http://cache.baiducontent.com/c?m=9d78d513d9d431dc4f9e95697d65c0166f4381132ba6a70208a0843990732f44506692ac56200777a2d20c1716db4348adb0687d6d4566f58cc9fb57c0f3c87379db7a23706bd61249855eb8cb31749c7f8d19aef858a1e1ad6e8ea8d6d9de5451ca51026d8087d11c5f4a&amp;p=c46dc64ad4911fe608e2947f0d088e&amp;newp=92759a45d7c301b446f6c7710f0a8d23161cda386a848d0a3b8fd12597641b5a597d&amp;user=baidu&amp;fm=sc&amp;query=%BA%A3%BA%BD%CE%EF%C1%F7+%C0%AC%BB%F8&amp;qid=&amp;p1=2" target="_blank" class="m"> 百度快照 </a> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3D1xyIjB2c_2kPGwTNroz8vSu5zuI8o9X0OBCe2UCtgzMyFTalEEESySQQ0tK07HNIKmHrciDe576lrLvPKH-B-K&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E6%B5%B7%E8%88%AA%03%E5%A4%A9%E5%A4%A9%02%E5%BF%AB%E9%80%92%03%E8%BF%98%01%E7%9C%9F%01%E6%98%AF%02%E5%9E%83%E5%9C%BE%03%21%01%E8%AF%B7%01%E6%85%8E%E9%87%8D%01%E2%80%A6%01%E2%80%A6%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BA%A3%BA%BD%CE%EF%C1%F7%20%C0%AC%BB%F8&amp;key=surl" target="_blank" class="m"> 86%好评 </a> </span> 
+ </div> 
+ <div class="c-gap-top c-recommend" style="display:none;" data-extquery="海航天天快递还真是垃圾&nbsp;"> 
+  <i class="c-icon c-icon-bear-circle c-gap-right-small"></i> 
+  <span class="c-gray"> 为您推荐： </span> 
+  <a href="/s?rn=100&amp;tn=baiduhome_pg&amp;wd=%E6%B5%B7%E8%88%AA%E5%A4%A9%E5%A4%A9%E5%BF%AB%E9%80%92%E8%BF%98%E7%9C%9F%E6%98%AF%E5%9E%83%E5%9C%BE&amp;ie=utf-8&amp;rsv_crq=7&amp;bs=%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81+%E5%9E%83%E5%9C%BE" target="_blank"> 海航天天快递还真是垃圾 </a> 
+ </div> 
+</div>
+2014-08-28 17:43:07 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:43:09 ERROR  [getUrl] <div class="result c-container " id="1" srcid="1599" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EB',
+			'F1':'9D73F1E4',
+			'F2':'4CA6DE6B',
+			'F3':'54E5343E',
+			'T':'1409218965',
+						'y':'FBDDDBBF'
+			 
+									}" href="//www.baidu.com/link?url=TsdeHgQNW08AzQFKSPTeS6vvlo6YpgT2I1pDhT7Nfo4-WIM1fA-Xs3xKuaVoJB3ol3qZ04DLmF-vr6OfRln9I_" target="_blank"> 不敢使用 <em> 海航 </em> 天天 <em> 快递 </em> 了, <em> 丢件 </em> 不赔偿,严重延误各种坑爹-55BBS-我爱... </a> </h3> 
+ <div class="bbs f13">
+   18条回复&nbsp;-&nbsp;发帖时间:&nbsp;2012年3月30日 
+ </div> 
+ <div class="c-abstract">
+   我发天天 
+  <em> 快递 </em> 也丢过一个件,不过用的是在线下单,淘宝规则在线下单是照价赔偿的,联系天天 
+  <em> 快递 </em> 核实确认后,要了我的身份证复印件说是给总部申请,虽然等了很长的... 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> bbs.55bbs.com/thread-7...&nbsp;2012-04-25&nbsp; </span> 
+  <div class="c-tools" id="tools_12776877870399252301" data-tools="{&quot;title&quot;:&quot;不敢使用海航天天快递了,丢件不赔偿,严重延误各种坑爹-55BBS-我爱...&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=TsdeHgQNW08AzQFKSPTeS6vvlo6YpgT2I1pDhT7Nfo4-WIM1fA-Xs3xKuaVoJB3ol3qZ04DLmF-vr6OfRln9I_&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> &nbsp;-&nbsp; 
+  <a data-nolog="" href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece763104687270e54f7643b87805468d4e419ce3b46071d26b4e871351072d6c5766d0aa84a4bea863565377523a09bbfd20c82e5866d72c8713b676cf55661d20edfb85155b737912afede6ef0cd8425e2adc5a7da4353bb44757e9783f84d0164dd1f81034594&amp;p=c4718b5e86cc41ae5cbac7710f4e8a&amp;newp=8471c54ad6c245fe40a9f82d021481231610db2151d0d0172eccd724&amp;user=baidu&amp;fm=sc&amp;query=%BA%A3%BA%BD%CE%EF%C1%F7+%B6%AA%BC%FE&amp;qid=&amp;p1=1" target="_blank" class="m"> 百度快照 </a> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3DTsdeHgQNW08AzQFKSPTeS6vvlo6YpgT2I1pDhT7Nfo4-WIM1fA-Xs3xKuaVoJB3ol3qZ04DLmF-vr6OfRln9I_&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%01%E4%B8%8D%01%E6%95%A2%01%E4%BD%BF%E7%94%A8%02%E6%B5%B7%E8%88%AA%03%E5%A4%A9%E5%A4%A9%02%E5%BF%AB%E9%80%92%03%E4%BA%86%01%2C%02%E4%B8%A2%01%E4%BB%B6%03%E4%B8%8D%01%E8%B5%94%E5%81%BF%01%2C%01%E4%B8%A5%E9%87%8D%01%E5%BB%B6%E8%AF%AF%01%E5%90%84%E7%A7%8D%01%E5%9D%91%01%E7%88%B9%01-%0155%01BBS%01-%01%E6%88%91%01%E7%88%B1%01...%26q%3D%BA%A3%BA%BD%CE%EF%C1%F7%20%B6%AA%BC%FE&amp;key=surl" target="_blank" class="m"> 88%好评 </a> </span> 
+ </div> 
+ <div class="c-gap-top c-recommend" style="display:none;" data-extquery="海航物流 丢件 使用&nbsp;"> 
+  <i class="c-icon c-icon-bear-circle c-gap-right-small"></i> 
+  <span class="c-gray"> 为您推荐： </span> 
+  <a href="/s?rn=100&amp;tn=baiduhome_pg&amp;wd=%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81+%E4%B8%A2%E4%BB%B6+%E4%BD%BF%E7%94%A8&amp;ie=utf-8&amp;rsv_crq=7&amp;bs=%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81+%E4%B8%A2%E4%BB%B6" target="_blank"> 海航物流 丢件 使用 </a> 
+ </div> 
+</div>
+2014-08-28 17:43:09 ERROR  [getUrl] <div class="result c-container " id="2" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EB',
+			'F1':'9D73F1E4',
+			'F2':'4CA6DE6B',
+			'F3':'54E5343E',
+			'T':'1409218965',
+						'y':'95BFFE7F'
+			 
+									}" href="//www.baidu.com/link?url=-1WdfA-kSvOOxYX6ZDljHKqoSdbQgTr67RRX-GewpR3RERXM6OpWYKvKD2fFwwURRN4fbZ2NJEs5DqW2lxUQq_" target="_blank"> 使用过 <em> 海航 </em> 天天 <em> 快递丢件 </em> 那些需要投诉的,先去企业投诉,..._百度知道 </a> </h3> 
+ <p class="f13 m"> 2个回答 - 提问时间: 2012年07月20日 </p> 
+ <div class="c-abstract"> 
+  <span class="m"> 最佳答案: </span> 对于现在 
+  <em> 快递 </em> 行业的服务态度直接无语,投诉无门是大家共同遇到的难题。本人认为个人的力量毕竟有限,我倡议建立起制约 
+  <em> 快递 </em> 联盟。最有效的途径是在自己的旺旺... 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> zhidao.baidu.com/link?...&nbsp;2012-07-25&nbsp; </span> 
+  <div class="c-tools" id="tools_6243845378749112849" data-tools="{&quot;title&quot;:&quot;使用过海航天天快递丢件那些需要投诉的,先去企业投诉,..._百度知道&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=-1WdfA-kSvOOxYX6ZDljHKqoSdbQgTr67RRX-GewpR3RERXM6OpWYKvKD2fFwwURRN4fbZ2NJEs5DqW2lxUQq_&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> &nbsp;-&nbsp; 
+  <a data-nolog="" href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece763105e8d3d4f07dd743ca080462482d45f93130a1c187ba0fc7063565f8e99616106ae495eedf43572200357eddd97d65e98e6d27e209f5747676f875662a00edfbd5124b137e12dfed86df0cbf325e7abc5d3ae4323ce44760997f1fb4d7065dd1b87&amp;p=cb3fdf1486cc41ac5ab3d32d021485&amp;newp=c365e716d9c119b434bd9b7e0e149323161cda386a848d0a3b8fd1259566035a2b&amp;user=baidu&amp;fm=sc&amp;query=%BA%A3%BA%BD%CE%EF%C1%F7+%B6%AA%BC%FE&amp;qid=&amp;p1=2" target="_blank" class="m"> 百度快照 </a> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3D-1WdfA-kSvOOxYX6ZDljHKqoSdbQgTr67RRX-GewpR3RERXM6OpWYKvKD2fFwwURRN4fbZ2NJEs5DqW2lxUQq_&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%01%E4%BD%BF%E7%94%A8%01%E8%BF%87%02%E6%B5%B7%E8%88%AA%03%E5%A4%A9%E5%A4%A9%02%E5%BF%AB%E9%80%92%01%E4%B8%A2%01%E4%BB%B6%03%E9%82%A3%E4%BA%9B%01%E9%9C%80%E8%A6%81%01%E6%8A%95%E8%AF%89%01%E7%9A%84%01%2C%01%E5%85%88%01%E5%8E%BB%01%E4%BC%81%E4%B8%9A%01%E6%8A%95%E8%AF%89%01%2C%01...%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BA%A3%BA%BD%CE%EF%C1%F7%20%B6%AA%BC%FE&amp;key=surl" target="_blank" class="m"> 86%好评 </a> </span> 
+ </div> 
+ <div class="c-gap-top c-recommend" style="display:none;" data-extquery="使用过海航天天快递丢件那些需要投诉的&nbsp;"> 
+  <i class="c-icon c-icon-bear-circle c-gap-right-small"></i> 
+  <span class="c-gray"> 为您推荐： </span> 
+  <a href="/s?rn=100&amp;tn=baiduhome_pg&amp;wd=%E4%BD%BF%E7%94%A8%E8%BF%87%E6%B5%B7%E8%88%AA%E5%A4%A9%E5%A4%A9%E5%BF%AB%E9%80%92%E4%B8%A2%E4%BB%B6%E9%82%A3%E4%BA%9B%E9%9C%80%E8%A6%81%E6%8A%95%E8%AF%89%E7%9A%84&amp;ie=utf-8&amp;rsv_crq=7&amp;bs=%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81+%E4%B8%A2%E4%BB%B6" target="_blank"> 使用过海航天天快递丢件那些需要投诉的 </a> 
+ </div> 
+</div>
+2014-08-28 17:46:29 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:46:32 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:46:39 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:46:42 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:46:44 ERROR  [getUrl] <div class="result c-container " id="1" srcid="1528" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EA',
+			'F1':'9D73B1E4',
+			'F2':'4CA6DE6B',
+			'F3':'54E5343F',
+			'T':'1409219180',
+						'y':'26DFF9FE'
+			 
+									}" href="//www.baidu.com/link?url=n3rvr5CE_r9Qbl6AqPbZEJGbpaEyE04_cVXJ5az3jf5lJHI7CGYsWM6jt1tqTUfJCCi5VIb0LR3MH_upvHp4pq" target="_blank"> HU( <em> 海南航空 </em> )是不是最 <em> 垃圾 </em> 的航空公司?_百度知道 </a> </h3> 
+ <p class="f13 m"> 5个回答 - 提问时间: 2012年08月29日 </p> 
+ <div class="c-abstract"> 
+  <em> 海航 </em> 是个大公司,还是很不错的,尤其是旗下的香港 
+  <em> 航空 </em> ,但是资金最近好像出了点问题。至少没像春秋那样干出那么丢人的事,为了几百块钱居然把客人拉黑,架子比 
+  <em> 海航 </em> 大... 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> zhidao.baidu.com/link?...&nbsp;2012-08-29&nbsp; </span> 
+  <div class="c-tools" id="tools_6804018396813466537" data-tools="{&quot;title&quot;:&quot;HU(海南航空)是不是最垃圾的航空公司?_百度知道&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=n3rvr5CE_r9Qbl6AqPbZEJGbpaEyE04_cVXJ5az3jf5lJHI7CGYsWM6jt1tqTUfJCCi5VIb0LR3MH_upvHp4pq&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3Dn3rvr5CE_r9Qbl6AqPbZEJGbpaEyE04_cVXJ5az3jf5lJHI7CGYsWM6jt1tqTUfJCCi5VIb0LR3MH_upvHp4pq&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%01HU%01%28%02%E6%B5%B7%E5%8D%97%01%E8%88%AA%E7%A9%BA%03%29%01%E6%98%AF%01%E4%B8%8D%01%E6%98%AF%01%E6%9C%80%02%E5%9E%83%E5%9C%BE%03%E7%9A%84%01%E8%88%AA%E7%A9%BA%01%E5%85%AC%E5%8F%B8%01%3F%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BA%A3%C4%CF%BA%BD%BF%D5%20%C0%AC%BB%F8&amp;key=surl" target="_blank" class="m"> 86%好评 </a> </span> 
+ </div> 
+ <div class="c-offset"> 
+  <table class="subLink_factory subLink_factory_right"> 
+   <tbody align="left"> 
+    <tr> 
+     <td class="first c-default "> <a href="//www.baidu.com/link?url=yfYNfsw6ErMTSM6Nr6hgWZQv6FXhpJWwqksy-AvSaFBsrDJIdQSuhwg2x9dOSp3EXnec1Z1d5f1sw4O1dIZRgK" target="_blank"> <em> 海南航空 </em> 是垄断行业中的 <em> 垃圾 </em> 股吗? </a> </td> 
+     <td class="middle c-default "> 2个回答 </td> 
+     <td class="last c-default rightTd"> 2007-10-17 </td> 
+    </tr> 
+    <tr> 
+     <td class="first c-default "> <a href="//www.baidu.com/link?url=U1CdrSGKRPyJlCACgtRcJmviHuw9cCWhmsMS7_4oHzO-n6GdYwN_K9d0PSfy6iL-w_EKxKoQ6XS-fj1vWuGS7q" target="_blank"> <em> 海航 </em> 天天快递还真是 <em> 垃圾 </em> !请慎重…… </a> </td> 
+     <td class="middle c-default "> 2个回答 </td> 
+     <td class="last c-default rightTd"> 2012-08-23 </td> 
+    </tr> 
+    <tr> 
+     <td class="first c-default "> <a href="//www.baidu.com/link?url=U1CdrSGKRPyJlCACgtRcJmviHuw9cCWhmsMS7_4oHzO-n6GdYwN_K9d0PSfy6iL-kq1NE_yIU890X8hwgtD2V_" target="_blank"> <em> 海航 </em> 天天快递真的很 <em> 垃圾 </em> 吗? </a> </td> 
+     <td class="middle c-default "> 8个回答 </td> 
+     <td class="last c-default rightTd"> 2011-06-07 </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <a href="//www.baidu.com/link?url=1W-k9CJj2by3Lk92umnkHf1jsiMjTqmfd6WNVOC4S-4jCv2j3RONvtT-EhSD_dQ5SYo2aoCm2KWxKMy_V40WYDVQjWkJhdTPd9SQUQEwO58nsPfwrGZvKZBKqnQS-wnRhYK_XF2hE3rn-Q7WCVUllJSL6rXpdeQtbINjB2BStCW" target="_blank" class="c"> 更多知道相关问题&gt;&gt; </a> 
+ </div> 
+</div>
+2014-08-28 17:46:44 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:46:45 ERROR  [getUrl] <div class="result c-container " id="1" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EB',
+			'F1':'9D73F1E4',
+			'F2':'4CA6DD6B',
+			'F3':'54E5343E',
+			'T':'1409219182',
+						'y':'7F7EE77F'
+			 
+									}" href="//www.baidu.com/link?url=6wj-5PdaK8L5xJ4Zi8JYXNHqp_-4DjZlCTGM7TESIJz6w2m3AtW4hLzRJqhPMai9LuH__jxWdjWbojjCjndpUa" target="_blank"> <em> 海航 </em> 天天 <em> 快递 </em> 真的很 <em> 垃圾 </em> 吗?_百度知道 </a> </h3> 
+ <p class="f13 m"> 8个回答 - 提问时间: 2011年06月07日 </p> 
+ <div class="c-abstract"> 
+  <span class="m"> 最佳答案: </span> 我有个朋友刚好前几天请这家公司托运了, 
+  <em> 快递 </em> 了一些吃的吧!速度还是蛮快的, 
+  <em> 快递 </em> 到了以后没有电话通知,据说东西都被这家 
+  <em> 快递 </em> 公司的吃完了,唉... 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> zhidao.baidu.com/link?...&nbsp;2011-06-07&nbsp; </span> 
+  <div class="c-tools" id="tools_138768670987324172" data-tools="{&quot;title&quot;:&quot;海航天天快递真的很垃圾吗?_百度知道&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=6wj-5PdaK8L5xJ4Zi8JYXNHqp_-4DjZlCTGM7TESIJz6w2m3AtW4hLzRJqhPMai9LuH__jxWdjWbojjCjndpUa&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> &nbsp;-&nbsp; 
+  <a data-nolog="" href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece763105e8d3d4f07dd743ca080462482d45f93130a1c187ba0fc7063565f8e99616704ab4d5feaf63775200357eddd97d65e98e6d27e209f5747676f875662a00edfbd5124b137e12dfed86df0cbf325e7abc5d3ae4322c844760b9780fb4d741e&amp;p=c66fd21b80934eaf5be7c62d021481&amp;newp=93718915d9c342a503be9b7c4f568023161cda386a848d0a3b8fd125956e00&amp;user=baidu&amp;fm=sc&amp;query=%BA%A3%BA%BD%CE%EF%C1%F7+%C0%AC%BB%F8&amp;qid=&amp;p1=1" target="_blank" class="m"> 百度快照 </a> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3D6wj-5PdaK8L5xJ4Zi8JYXNHqp_-4DjZlCTGM7TESIJz6w2m3AtW4hLzRJqhPMai9LuH__jxWdjWbojjCjndpUa&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E6%B5%B7%E8%88%AA%03%E5%A4%A9%E5%A4%A9%02%E5%BF%AB%E9%80%92%03%E7%9C%9F%01%E7%9A%84%01%E5%BE%88%02%E5%9E%83%E5%9C%BE%03%E5%90%97%01%3F%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BA%A3%BA%BD%CE%EF%C1%F7%20%C0%AC%BB%F8&amp;key=surl" target="_blank" class="m"> 86%好评 </a> </span> 
+ </div> 
+</div>
+2014-08-28 17:46:45 ERROR  [getUrl] <div class="result c-container " id="2" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EB',
+			'F1':'9D73F1E4',
+			'F2':'4C86DD6B',
+			'F3':'54E5343E',
+			'T':'1409219182',
+						'y':'6FFCFFCF'
+			 
+									}" href="//www.baidu.com/link?url=73U3FJpfSAgpRuDPytVM8IMTJE7fn7ACiik1oD7FhCx8JAH3q3hN0GiJIzUCwIis0snup3Ndq8d8SkzKr2q0TK" target="_blank"> <em> 海航 </em> 天天 <em> 快递 </em> 还真是 <em> 垃圾 </em> !请慎重……_百度知道 </a> </h3> 
+ <p class="f13 m"> 2个回答 - 提问时间: 2012年08月23日 </p> 
+ <div class="c-abstract"> 
+  <em> 海航 </em> ?是海军属下办的 
+  <em> 快递 </em> 吗?和海军一样对日软蛋,对内牛叉 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> zhidao.baidu.com/link?...&nbsp;2012-08-23&nbsp; </span> 
+  <div class="c-tools" id="tools_3753669180342035559" data-tools="{&quot;title&quot;:&quot;海航天天快递还真是垃圾!请慎重……_百度知道&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=73U3FJpfSAgpRuDPytVM8IMTJE7fn7ACiik1oD7FhCx8JAH3q3hN0GiJIzUCwIis0snup3Ndq8d8SkzKr2q0TK&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> &nbsp;-&nbsp; 
+  <a data-nolog="" href="http://cache.baiducontent.com/c?m=9d78d513d9d431dc4f9e95697d65c0166f4381132ba6a70208a0843990732f44506692ac56200777a2d20c1716db4348adb0687d6d4566f58cc9fb57c0f3c87379db7a23706bd61249855eb8cb31749c7f8d19aef858a1e1ad6e8ea8d6d9de5451ca51026d8087d11c5f4a&amp;p=9362c64ad48a04ff57ed957e575680&amp;newp=8039c64ad48811a058ec94247f0a9d23161cda386a848d0a3b8fd125976410&amp;user=baidu&amp;fm=sc&amp;query=%BA%A3%BA%BD%CE%EF%C1%F7+%C0%AC%BB%F8&amp;qid=&amp;p1=2" target="_blank" class="m"> 百度快照 </a> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3D73U3FJpfSAgpRuDPytVM8IMTJE7fn7ACiik1oD7FhCx8JAH3q3hN0GiJIzUCwIis0snup3Ndq8d8SkzKr2q0TK&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E6%B5%B7%E8%88%AA%03%E5%A4%A9%E5%A4%A9%02%E5%BF%AB%E9%80%92%03%E8%BF%98%01%E7%9C%9F%01%E6%98%AF%02%E5%9E%83%E5%9C%BE%03%21%01%E8%AF%B7%01%E6%85%8E%E9%87%8D%01%E2%80%A6%01%E2%80%A6%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BA%A3%BA%BD%CE%EF%C1%F7%20%C0%AC%BB%F8&amp;key=surl" target="_blank" class="m"> 86%好评 </a> </span> 
+ </div> 
+ <div class="c-gap-top c-recommend" style="display:none;" data-extquery="海航天天快递还真是垃圾&nbsp;"> 
+  <i class="c-icon c-icon-bear-circle c-gap-right-small"></i> 
+  <span class="c-gray"> 为您推荐： </span> 
+  <a href="/s?rn=100&amp;tn=baiduhome_pg&amp;wd=%E6%B5%B7%E8%88%AA%E5%A4%A9%E5%A4%A9%E5%BF%AB%E9%80%92%E8%BF%98%E7%9C%9F%E6%98%AF%E5%9E%83%E5%9C%BE&amp;ie=utf-8&amp;rsv_crq=7&amp;bs=%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81+%E5%9E%83%E5%9C%BE" target="_blank"> 海航天天快递还真是垃圾 </a> 
+ </div> 
+</div>
+2014-08-28 17:46:45 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:46:47 ERROR  [getUrl] <div class="result c-container " id="1" srcid="1599" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EB',
+			'F1':'9D73F1E4',
+			'F2':'4CA6DE6B',
+			'F3':'54E5343E',
+			'T':'1409219183',
+						'y':'7FC7FDEE'
+			 
+									}" href="//www.baidu.com/link?url=Ce55bEQApiclfrAB0Iv7oOxXXiDEHT6OUvyL5twxGOfW5fH83PvsS-QgP94NaVLXSyZMUtKlGIDVh4HOjR7ahK" target="_blank"> 不敢使用 <em> 海航 </em> 天天 <em> 快递 </em> 了, <em> 丢件 </em> 不赔偿,严重延误各种坑爹-55BBS-我爱... </a> </h3> 
+ <div class="bbs f13">
+   18条回复&nbsp;-&nbsp;发帖时间:&nbsp;2012年3月30日 
+ </div> 
+ <div class="c-abstract">
+   我发天天 
+  <em> 快递 </em> 也丢过一个件,不过用的是在线下单,淘宝规则在线下单是照价赔偿的,联系天天 
+  <em> 快递 </em> 核实确认后,要了我的身份证复印件说是给总部申请,虽然等了很长的... 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> bbs.55bbs.com/thread-7...&nbsp;2012-04-25&nbsp; </span> 
+  <div class="c-tools" id="tools_12776877870399252301" data-tools="{&quot;title&quot;:&quot;不敢使用海航天天快递了,丢件不赔偿,严重延误各种坑爹-55BBS-我爱...&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=Ce55bEQApiclfrAB0Iv7oOxXXiDEHT6OUvyL5twxGOfW5fH83PvsS-QgP94NaVLXSyZMUtKlGIDVh4HOjR7ahK&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> &nbsp;-&nbsp; 
+  <a data-nolog="" href="http://cache.baiducontent.com/c?m=9d78d513d9d431dc4f9e95697d65c0166f4381132ba6a70208a0843990732f44506692ac57260777a0d27d1716df384b9e872235775d2feddd8eca5ddcc88f357fd86623706b8146428358b8cb31749c7f8d1cb3ef4eb4ece732e5abd2d9d55f54c944050c83e78b2c0303ca18aa526ebd&amp;p=853bc016d9c111a058ec90201b0e8f&amp;newp=8b2a9715d9c340ab4bb3c92958419e231610db2151d0d017&amp;user=baidu&amp;fm=sc&amp;query=%BA%A3%BA%BD%CE%EF%C1%F7+%B6%AA%BC%FE&amp;qid=&amp;p1=1" target="_blank" class="m"> 百度快照 </a> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3DCe55bEQApiclfrAB0Iv7oOxXXiDEHT6OUvyL5twxGOfW5fH83PvsS-QgP94NaVLXSyZMUtKlGIDVh4HOjR7ahK&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%01%E4%B8%8D%01%E6%95%A2%01%E4%BD%BF%E7%94%A8%02%E6%B5%B7%E8%88%AA%03%E5%A4%A9%E5%A4%A9%02%E5%BF%AB%E9%80%92%03%E4%BA%86%01%2C%02%E4%B8%A2%01%E4%BB%B6%03%E4%B8%8D%01%E8%B5%94%E5%81%BF%01%2C%01%E4%B8%A5%E9%87%8D%01%E5%BB%B6%E8%AF%AF%01%E5%90%84%E7%A7%8D%01%E5%9D%91%01%E7%88%B9%01-%0155%01BBS%01-%01%E6%88%91%01%E7%88%B1%01...%26q%3D%BA%A3%BA%BD%CE%EF%C1%F7%20%B6%AA%BC%FE&amp;key=surl" target="_blank" class="m"> 88%好评 </a> </span> 
+ </div> 
+ <div class="c-gap-top c-recommend" style="display:none;" data-extquery="海航物流 丢件 使用&nbsp;"> 
+  <i class="c-icon c-icon-bear-circle c-gap-right-small"></i> 
+  <span class="c-gray"> 为您推荐： </span> 
+  <a href="/s?rn=100&amp;tn=baiduhome_pg&amp;wd=%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81+%E4%B8%A2%E4%BB%B6+%E4%BD%BF%E7%94%A8&amp;ie=utf-8&amp;rsv_crq=7&amp;bs=%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81+%E4%B8%A2%E4%BB%B6" target="_blank"> 海航物流 丢件 使用 </a> 
+ </div> 
+</div>
+2014-08-28 17:46:47 ERROR  [getUrl] <div class="result c-container " id="2" srcid="1529" tpl="se_com_default" data-click="{'rsv_bdr':'0' }"> 
+ <h3 class="t"> <a data-click="{
+			'F':'778717EB',
+			'F1':'9D73F1E4',
+			'F2':'4CA6DE6B',
+			'F3':'54E5343E',
+			'T':'1409219183',
+						'y':'EFED49DB'
+			 
+									}" href="//www.baidu.com/link?url=wNIZ1Zz1Qr13Ztv2ZRx5bioOhZY-mqFdNSc-gppTjtfqWr_hCSkfDtwRST4yQsp7U-PF7W6HKwh0ptRROhQ74_" target="_blank"> 使用过 <em> 海航 </em> 天天 <em> 快递丢件 </em> 那些需要投诉的,先去企业投诉,..._百度知道 </a> </h3> 
+ <p class="f13 m"> 2个回答 - 提问时间: 2012年07月20日 </p> 
+ <div class="c-abstract"> 
+  <span class="m"> 最佳答案: </span> 对于现在 
+  <em> 快递 </em> 行业的服务态度直接无语,投诉无门是大家共同遇到的难题。本人认为个人的力量毕竟有限,我倡议建立起制约 
+  <em> 快递 </em> 联盟。最有效的途径是在自己的旺旺... 
+ </div> 
+ <div class="f13"> 
+  <span class="g"> zhidao.baidu.com/link?...&nbsp;2012-07-25&nbsp; </span> 
+  <div class="c-tools" id="tools_6243845378749112849" data-tools="{&quot;title&quot;:&quot;使用过海航天天快递丢件那些需要投诉的,先去企业投诉,..._百度知道&quot;,&quot;url&quot;:&quot;//www.baidu.com/link?url=wNIZ1Zz1Qr13Ztv2ZRx5bioOhZY-mqFdNSc-gppTjtfqWr_hCSkfDtwRST4yQsp7U-PF7W6HKwh0ptRROhQ74_&quot;}"> 
+   <a class="c-tip-icon"> <i class="c-icon c-icon-triangle-down-g"></i> </a> 
+  </div> 
+  <span class="c-icons-outer"> <span class="c-icons-inner"> </span> </span> &nbsp;-&nbsp; 
+  <a data-nolog="" href="http://cache.baiducontent.com/c?m=9d78d513d9d431dc4f9e95697d65c0166f4381132ba6a70208a0843990732f44506692ac57260777a0d27d1716df384b9e872235775d2feddd8eca5ddcc88f3567d27c622341914165834af49d0132c157c107b6b25aa0edb174c8f38eced95352ca51027e83f09c5a774e8c30ae&amp;p=8b2a970c89934eaf5befc336574c8b&amp;newp=8b2a971b82934eaf5befdc0c58578623161cda386a848d0a3b8fd12595660515&amp;user=baidu&amp;fm=sc&amp;query=%BA%A3%BA%BD%CE%EF%C1%F7+%B6%AA%BC%FE&amp;qid=&amp;p1=2" target="_blank" class="m"> 百度快照 </a> 
+  <span> &nbsp;-&nbsp; <a href="http://www.baidu.com/tools?url=%2F%2Fwww.baidu.com%2Flink%3Furl%3DwNIZ1Zz1Qr13Ztv2ZRx5bioOhZY-mqFdNSc-gppTjtfqWr_hCSkfDtwRST4yQsp7U-PF7W6HKwh0ptRROhQ74_&amp;jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%01%E4%BD%BF%E7%94%A8%01%E8%BF%87%02%E6%B5%B7%E8%88%AA%03%E5%A4%A9%E5%A4%A9%02%E5%BF%AB%E9%80%92%01%E4%B8%A2%01%E4%BB%B6%03%E9%82%A3%E4%BA%9B%01%E9%9C%80%E8%A6%81%01%E6%8A%95%E8%AF%89%01%E7%9A%84%01%2C%01%E5%85%88%01%E5%8E%BB%01%E4%BC%81%E4%B8%9A%01%E6%8A%95%E8%AF%89%01%2C%01...%01_%01%E7%99%BE%E5%BA%A6%01%E7%9F%A5%E9%81%93%01%26q%3D%BA%A3%BA%BD%CE%EF%C1%F7%20%B6%AA%BC%FE&amp;key=surl" target="_blank" class="m"> 86%好评 </a> </span> 
+ </div> 
+ <div class="c-gap-top c-recommend" style="display:none;" data-extquery="使用过海航天天快递丢件那些需要投诉的&nbsp;"> 
+  <i class="c-icon c-icon-bear-circle c-gap-right-small"></i> 
+  <span class="c-gray"> 为您推荐： </span> 
+  <a href="/s?rn=100&amp;tn=baiduhome_pg&amp;wd=%E4%BD%BF%E7%94%A8%E8%BF%87%E6%B5%B7%E8%88%AA%E5%A4%A9%E5%A4%A9%E5%BF%AB%E9%80%92%E4%B8%A2%E4%BB%B6%E9%82%A3%E4%BA%9B%E9%9C%80%E8%A6%81%E6%8A%95%E8%AF%89%E7%9A%84&amp;ie=utf-8&amp;rsv_crq=7&amp;bs=%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81+%E4%B8%A2%E4%BB%B6" target="_blank"> 使用过海航天天快递丢件那些需要投诉的 </a> 
+ </div> 
+</div>
+2014-08-28 17:49:05 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:49:08 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:49:10 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 17:49:12 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 19:47:38 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 19:49:17 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 19:53:31 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 19:53:48 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 19:54:05 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 19:54:30 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 19:57:05 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 19:58:48 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 20:28:32 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 20:29:33 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 20:29:36 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 20:29:38 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 20:29:40 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 20:36:22 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E4%B8%A2%E4%BB%B6%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 20:36:25 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E6%8A%95%E8%AF%89%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 20:36:27 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100
+2014-08-28 20:36:29 INFO   [getPage] http://www.baidu.com/s?wd=%20%E6%B5%B7%E8%88%AA%E7%89%A9%E6%B5%81%20%E5%9E%83%E5%9C%BE%20&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&inputT=1305&rn=100

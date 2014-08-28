@@ -6,6 +6,7 @@ public class MapTools {
 
 	/**
 	 * 将信息累加保存至Map
+	 * word 为null时，忽略本次插入
 	 * @param map 
 	 * @param word 关键字
 	 * @param count 需累加值

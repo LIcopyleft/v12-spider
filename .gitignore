@@ -13,7 +13,11 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+bin/
+log/
+target/
+*.bak
+/.settings
 # =========================
 # Operating System Files
 # =========================
