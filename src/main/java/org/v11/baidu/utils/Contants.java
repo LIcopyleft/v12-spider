@@ -18,4 +18,9 @@ public class Contants {
 	public static final String _tianya = "tianya";
 	public static final String _douban = "douban";
 	public static final String _baidu = "baidu";
+	public static final String _qq = "qq";
+	/*
+	 * 分隔符
+	 */
+	public static final String _split = "-----";
 }

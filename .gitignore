@@ -18,6 +18,8 @@ log/
 target/
 *.bak
 /.settings
+bak/
+log/
 # =========================
 # Operating System Files
 # =========================

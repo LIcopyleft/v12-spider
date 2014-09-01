@@ -3,6 +3,7 @@ package org.v11.baidu;
 import java.util.List;
 
 import org.v11.baidu.analyzer.SearchAnalyzerImpl;
+import org.v11.baidu.info.DoPageInfo;
 import org.v11.utils.ReadFile;
 import org.v11.utils.WriteFile;
 
@@ -18,11 +19,11 @@ public class Worker {
 		List<String> searchs = ReadFile.readFileToList("in");
 		for(String search : searchs){
 			String pre = "./target/";
-			SearchAnalyzerImpl sa = new SearchAnalyzerImpl();
+			DoPageInfo pInfo = new DoPageInfo();
 
-			WriteFile.write(sa.getUrlInfo(search), pre+search+"_url.txt");
-			WriteFile.write(sa.getKeywordInfo(search), pre+search+"_content.txt");
-			WriteFile.write(sa.getTypeInfo(search), pre+search+"_type.txt");
+			WriteFile.write(pInfo.createUrlInfo(search), pre+search+"_url.txt");
+			WriteFile.write(pInfo.createKeywordInfo(search), pre+search+"_content.txt");
+			//WriteFile.write(pInfo.createUrlInfo(search), pre+search+"_type.txt");
 		}		
 	}
 }

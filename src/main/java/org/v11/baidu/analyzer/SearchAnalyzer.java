@@ -1,36 +1,28 @@
 package org.v11.baidu.analyzer;
 
-import java.util.HashMap;
+import java.util.*;
 
 public interface SearchAnalyzer {
 	/**
-	 * url统计信息
+	 * 网页快照url统计信息
 	 * @return
 	 */
-	public HashMap<String, Integer> getUrlInfo(String searchWord);
+	public List<String> getUrlInfo(String searchWord);
 	/**
 	 * 关键字统计信息
 	 * @return
 	 */
-	public HashMap<String, Integer> getKeywordInfo(String searchWord);
+	public List<String> getKeywordInfo(String searchWord);
 	/**
-	 * 获取分类后的信息
-	 * blog
-	 * bbs
-	 * news
-	 * other
+	 * 获取网页快照文本内容
 	 * @return
 	 */
-	public HashMap<String, Integer> getTypeInfo(String searchWord);
+	public List<String> getContentInfo(String searchWord);
 	/**
-	 * 获取分类后的公司
-	 * blog
-	 * bbs
-	 * news
-	 * other
+	 * 获取百度中Url映射
 	 * @return
 	 */
-	public HashMap<String, Integer> getCompanyInfo(String searchWord);
-
+	public List<String> getBaiduUrlInfo(String searchWord);
+	public String getRealUrl(String baiduUrl);
 
 }
