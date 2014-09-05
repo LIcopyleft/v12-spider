@@ -26,40 +26,65 @@ public class TopicWorker extends BasicWorker{
 		loginer = new WeiboLoginer();
 		client = loginer.getCliet();
 	}
-	private Integer getMaxPageNum(Document doc){
-		Integer res = 100;
-		return 100;
-	}
+	
+	/**
+	 * 获取话题wids列表
+	 * <ol>
+	 * <li>pageNum = 100</li>
+	 * <li>end time = current time</li>
+	 * </ol>
+	 * @param word 关键字
+	 * @return
+	 */
 	public Set<String> getIds(String word){
+		return getIds(word,100,"","");
+	}
+	/**
+	 * 获取话题wids列表
+	 * <ol>
+	 * <li>单独设置开始时间可以</li>
+	 * <li>单独设置结束时间就无法识别</li>
+	 * </ol>
+	 * @param word 关键字
+	 * @param pageNum 爬取页数
+	 * <br /> 最大为100
+	 * @param starttime 开始时间
+	 * <br />Example ： 20140806
+	 * @param endtime 结束时间
+	 * <br /> Example 20140901
+	 * @return
+	 */
+	public Set<String> getIds(String word,Integer pageNum,String starttime,String endtime){
 		Set<String> ls = new HashSet<String>();
 		String wordUrlEncode = URLEncoder.encode(word);
-		
-		System.out.println(word.length());
 		String searchUrl = "http://weibo.cn/search/mblog?hideSearchFrame=&keyword="
 				+ wordUrlEncode
-				+ "&advancedfilter=1&hasori=1&endtime=20140904&sort=time&page=";
+				+ "&advancedfilter=1&hasori=1&starttime="+starttime
+				+"endtime="+endtime
+				+"&sort=time&page=";
 		int count = 0;
-		for (int i = 1; i < 2; i++) {
-			
+		Document doc = null;
+		if(pageNum > 100) pageNum = 100;
+		for (int i = 1; i <= pageNum; i++) {
 			try {
 				searchUrl = searchUrl + i;
 				log.info(searchUrl);
 				HttpGet getSearch = addHttpGetWithHeader(searchUrl);
 				HttpResponse res;
 				res = client.execute(getSearch);
-				Document doc = Jsoup.parse(showResponseBody(res));
+				doc = Jsoup.parse(showResponseBody(res));
 				release(res);
 				Elements es = doc.getElementsByTag("div");
 				for(Element e : es){
 					String idName = e.attr("id");
 					if(idName.startsWith("M_")){
-						//System.out.println(idName);
-						System.out.println(idName.substring(idName.indexOf("_") + 1));
+						count++;
+						log.info(idName.substring(idName.indexOf("_") + 1));
 					}
-					
 				}
 			} catch (ClientProtocolException e) {
 				log.error(e.getMessage());
+				log.error(doc.text());
 			} catch (IOException e) {
 				log.error(e.getMessage());
 			}
